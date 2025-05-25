@@ -14,9 +14,9 @@ templateClass: "home-template"
             {% for post in collections.posts %}
             <article class="post-card post {% if loop.index0 == 0 and post.data.featured_image %}post-card-large{% endif %}">
                 {% if post.data.featured_image %}
-                <a class="post-card-image-link" href="{{ post.url }}">
+                <a class="post-card-image-link" href="{{ post.url | url }}">
                     <img class="post-card-image"
-                        src="{{ post.data.featured_image }}"
+                        src="{{ post.data.featured_image | url }}"
                         alt="{{ post.data.title }}"
                         loading="lazy"
                     />
@@ -24,7 +24,7 @@ templateClass: "home-template"
                 {% endif %}
 
                 <div class="post-card-content">
-                    <a class="post-card-content-link" href="{{ post.url }}">
+                    <a class="post-card-content-link" href="{{ post.url | url }}">
                         <header class="post-card-header">
                             {% if post.data.tags and post.data.tags.length > 1 %}
                                 {% for tag in post.data.tags %}
@@ -45,7 +45,7 @@ templateClass: "home-template"
                             <li class="author-list-item">
                                 <div class="static-avatar author-profile-image">
                                     {% if post.data.author_image %}
-                                    <img src="{{ post.data.author_image }}" alt="{{ post.data.author }}" />
+                                    <img src="{{ post.data.author_image | url }}" alt="{{ post.data.author }}" />
                                     {% else %}
                                     <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="m12.593 23.258-.011.002-.071.035-.02.004-.014-.004-.071-.035c-.01-.004-.019-.001-.024.005l-.004.01-.017.428.005.02.01.013.104.074.015.004.012-.004.104-.074.012-.016.004-.017-.017-.427c-.002-.01-.009-.017-.017-.018Zm.265-.113-.013.002-.185.093-.01.01-.003.011.018.43.005.012.008.007.201.093c.012.004.023 0 .029-.008l.004-.014-.034-.614c-.003-.012-.01-.02-.02-.022Zm-.715.002a.023.023 0 0 0-.027.006l-.006.014-.034.614c0 .012.007.02.017.024l.015-.002.201-.093.01-.008.004-.011.017-.43-.003-.012-.01-.01-.184-.092Z"/><path fill="currentColor" d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2ZM8.5 9.5a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0Zm9.758 7.484A7.985 7.985 0 0 1 12 20a7.985 7.985 0 0 1-6.258-3.016C7.363 15.821 9.575 15 12 15s4.637.821 6.258 1.984Z"/></g></svg>
                                     {% endif %}
