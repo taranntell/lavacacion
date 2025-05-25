@@ -1,0 +1,68 @@
+---
+layout: base.njk
+title: "Inicio"
+---
+
+<div class="hero">
+  <div class="hero-content">
+    <h1 class="hero-title">Bienvenido a La Vacación ✈️</h1>
+    <p class="hero-subtitle">Tu guía de viajes por Europa y Alemania. Consejos, tips y experiencias de primera mano para que tu próximo viaje sea inolvidable.</p>
+    <a href="/posts/" class="hero-cta">Ver todos los artículos</a>
+  </div>
+</div>
+
+<section class="featured-posts">
+  <div class="container">
+    <h2 class="section-title">Artículos Recientes</h2>
+    <div class="posts-grid">
+      {% for post in collections.posts | head(6) %}
+      <article class="post-card">
+        {% if post.data.featured_image %}
+        <div class="post-card-image">
+          <img src="{{ post.data.featured_image }}" alt="{{ post.data.title }}" loading="lazy">
+        </div>
+        {% endif %}
+        
+        <div class="post-card-content">
+          <div class="post-card-meta">
+            <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+            {% if post.data.tags %}
+            <div class="post-card-tags">
+              {% for tag in post.data.tags %}
+                {% if tag != "posts" %}
+                <span class="tag">#{{ tag }}</span>
+                {% endif %}
+              {% endfor %}
+            </div>
+            {% endif %}
+          </div>
+          
+          <h3 class="post-card-title">
+            <a href="{{ post.url }}">{{ post.data.title }}</a>
+          </h3>
+          
+          {% if post.data.excerpt %}
+          <p class="post-card-excerpt">{{ post.data.excerpt }}</p>
+          {% endif %}
+          
+          <a href="{{ post.url }}" class="post-card-link">Leer más →</a>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+    
+    <div class="section-footer">
+      <a href="/posts/" class="view-all-link">Ver todos los artículos →</a>
+    </div>
+  </div>
+</section>
+
+<section class="about-preview">
+  <div class="container">
+    <div class="about-content">
+      <h2>Sobre La Vacación</h2>
+      <p>Después de más de una década planeando y organizando las vacaciones de todas mis visitas, esta vez la información vivirá en LaVacacion.com. Vivo en Alemania desde el 2008 y cada año recibo múltiples visitas. Puedo decir con seguridad que sé muy bien lo que cada uno quiere ver, pues lo he aprendido a través de los años.</p>
+      <a href="/about/" class="about-link">Conoce más sobre nosotros →</a>
+    </div>
+  </div>
+</section> 

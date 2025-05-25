@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if title %}{{ title }} - {% endif %}La Vacación</title>
+  <meta name="description" content="{% if excerpt %}{{ excerpt }}{% else %}Tu guía de viajes por Europa y Alemania. Consejos, tips y experiencias de primera mano.{% endif %}">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url }}">
+  <meta property="og:title" content="{% if title %}{{ title }} - {% endif %}La Vacación">
+  <meta property="og:description" content="{% if excerpt %}{{ excerpt }}{% else %}Tu guía de viajes por Europa y Alemania{% endif %}">
+  {% if featured_image %}<meta property="og:image" content="{{ featured_image }}">{% endif %}
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="{{ page.url }}">
+  <meta property="twitter:title" content="{% if title %}{{ title }} - {% endif %}La Vacación">
+  <meta property="twitter:description" content="{% if excerpt %}{{ excerpt }}{% else %}Tu guía de viajes por Europa y Alemania{% endif %}">
+  {% if featured_image %}<meta property="twitter:image" content="{{ featured_image }}">{% endif %}
+
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="header">
+    <nav class="nav">
+      <div class="nav-container">
+        <a href="/" class="nav-logo">
+          <span class="logo-text">La Vacación</span>
+          <span class="logo-emoji">✈️</span>
+        </a>
+        <ul class="nav-menu">
+          <li><a href="/" class="nav-link">Inicio</a></li>
+          <li><a href="/posts/" class="nav-link">Artículos</a></li>
+          <li><a href="/about/" class="nav-link">Acerca</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <main class="main">
+    {{ content | safe }}
+  </main>
+
+  <footer class="footer">
+    <div class="footer-container">
+      <div class="footer-content">
+        <div class="footer-section">
+          <h3>La Vacación</h3>
+          <p>Tu guía de viajes por Europa y Alemania. Consejos, tips y experiencias de primera mano.</p>
+        </div>
+        <div class="footer-section">
+          <h4>Enlaces</h4>
+          <ul>
+            <li><a href="/">Inicio</a></li>
+            <li><a href="/posts/">Artículos</a></li>
+            <li><a href="/about/">Acerca</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h4>Temas</h4>
+          <ul>
+            <li><a href="/tags/travel/">Viajes</a></li>
+            <li><a href="/tags/europe/">Europa</a></li>
+            <li><a href="/tags/germany/">Alemania</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2025 La Vacación. Todos los derechos reservados.</p>
+      </div>
+    </div>
+  </footer>
+</body>
+</html> 

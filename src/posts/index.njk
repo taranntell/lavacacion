@@ -1,0 +1,54 @@
+---
+layout: casper-base.njk
+title: "Todos los Artículos"
+templateClass: "archive-template"
+permalink: /posts/
+---
+
+<div class="page-header">
+  <div class="container">
+    <h1 class="page-title">Todos los Artículos</h1>
+    <p class="page-subtitle">Explora nuestra colección completa de guías de viaje, consejos y experiencias.</p>
+  </div>
+</div>
+
+<section class="posts-archive">
+  <div class="container">
+    <div class="posts-grid">
+      {% for post in collections.posts %}
+      <article class="post-card">
+        {% if post.data.featured_image %}
+        <div class="post-card-image">
+          <img src="{{ post.data.featured_image }}" alt="{{ post.data.title }}" loading="lazy">
+        </div>
+        {% endif %}
+        
+        <div class="post-card-content">
+          <div class="post-card-meta">
+            <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+            {% if post.data.tags %}
+            <div class="post-card-tags">
+              {% for tag in post.data.tags %}
+                {% if tag != "posts" %}
+                <span class="tag">#{{ tag }}</span>
+                {% endif %}
+              {% endfor %}
+            </div>
+            {% endif %}
+          </div>
+          
+          <h3 class="post-card-title">
+            <a href="{{ post.url }}">{{ post.data.title }}</a>
+          </h3>
+          
+          {% if post.data.excerpt %}
+          <p class="post-card-excerpt">{{ post.data.excerpt }}</p>
+          {% endif %}
+          
+          <a href="{{ post.url }}" class="post-card-link">Leer más →</a>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section> 

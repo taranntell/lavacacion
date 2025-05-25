@@ -1,0 +1,38 @@
+{
+  "name": "la-vacacion-blog",
+  "version": "1.0.0",
+  "description": "La Vacación - Travel blog about Europe and Germany",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node convert-ghost-to-markdown.js",
+    "extract-images": "node extract-used-images.js",
+    "fix-images": "node fix-image-paths.js",
+    "setup": "npm run convert && npm run extract-images && npm run fix-images",
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "start": "eleventy --serve",
+    "debug": "DEBUG=Eleventy* eleventy"
+  },
+  "keywords": [
+    "travel",
+    "blog",
+    "eleventy",
+    "europe",
+    "germany"
+  ],
+  "author": "La Vacación",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-img": "^3.1.8",
+    "@11ty/eleventy-navigation": "^0.3.5"
+  },
+  "dependencies": {
+    "fitvids": "^2.1.1",
+    "jsdom": "^23.0.1",
+    "luxon": "^3.6.1",
+    "markdown-it": "^14.0.0",
+    "markdown-it-anchor": "^8.6.7",
+    "turndown": "^7.1.2"
+  }
+}

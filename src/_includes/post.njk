@@ -1,0 +1,59 @@
+---
+layout: base.njk
+---
+
+<article class="post">
+  <header class="post-header">
+    {% if featured_image %}
+    <div class="post-featured-image">
+      <img src="{{ featured_image }}" alt="{{ title }}" loading="lazy">
+    </div>
+    {% endif %}
+    
+    <div class="post-meta">
+      <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
+      {% if tags %}
+      <div class="post-tags">
+        {% for tag in tags %}
+          {% if tag != "posts" %}
+          <a href="/tags/{{ tag | slug }}/" class="tag">#{{ tag }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+    
+    <h1 class="post-title">{{ title }}</h1>
+    
+    {% if excerpt %}
+    <div class="post-excerpt">
+      {{ excerpt }}
+    </div>
+    {% endif %}
+  </header>
+
+  <div class="post-content">
+    {{ content | safe }}
+  </div>
+
+  <footer class="post-footer">
+    <div class="post-navigation">
+      {% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+      {% set nextPost = collections.posts | getNextCollectionItem(page) %}
+      
+      {% if previousPost %}
+      <a href="{{ previousPost.url }}" class="nav-previous">
+        <span class="nav-label">← Anterior</span>
+        <span class="nav-title">{{ previousPost.data.title }}</span>
+      </a>
+      {% endif %}
+      
+      {% if nextPost %}
+      <a href="{{ nextPost.url }}" class="nav-next">
+        <span class="nav-label">Siguiente →</span>
+        <span class="nav-title">{{ nextPost.data.title }}</span>
+      </a>
+      {% endif %}
+    </div>
+  </footer>
+</article> 
