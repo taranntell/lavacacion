@@ -3,7 +3,7 @@ title: "Video. Recorriendo México."
 date: 2022-01-11T13:00:00.000Z
 slug: recorriendo-mexico
 excerpt: "Con una explosión de imagenes y una duración de casi 7 minutos aquí esta el video del viaje. Trate de plasmar México de día con un tono real y así incluirlas co..."
-featured_image: /images/playarevolcadero.jpg
+featured_image: /lavacacion/images/playarevolcadero.jpg
 tags:
   - travel
   - europe

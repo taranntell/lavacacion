@@ -3,7 +3,7 @@ title: "Schäufele 🍖 El Platillo Tradicional de Cerdo de Franconia"
 date: 2021-04-15T19:29:53.000Z
 slug: schaufele-platillo-tradicional-de-cerdo-franconia
 excerpt: "El platillo mas tradicional de toda Franconia es probablemente el Schäufele [https://es.wikipedia.org/wiki/Schäufele] (también conocido como Schäuferla). Un S..."
-featured_image: /images/sch-ufele.jpg
+featured_image: /lavacacion/images/sch-ufele.jpg
 tags:
   - travel
   - europe

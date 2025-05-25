@@ -33,7 +33,7 @@ Para este estudio solo se tomaron en cuenta 78 países, los cuales fueron selecc
 
 [México](https://www.usnews.com/news/best-countries/mexico) se queda en la posición 31, siendo atractivo en las categorías de [influencia cultural (patrimonio)](https://www.usnews.com/news/best-countries/heritage-rankings)  y [aventura](https://www.usnews.com/news/best-countries/adventure-rankings).
 
-![](/images/mexicoMejorPaisDelMundo.jpg)
+![](/lavacacion/images/mexicoMejorPaisDelMundo.jpg)
 
 **Así las posiciones de países de Latinoamérica:**
 

@@ -17,11 +17,11 @@ Cuatro años consecutivos Finlandia ha sido nombrado el país más feliz del mun
 
 La  [World Hapinness Report](https://happiness-report.s3.amazonaws.com/2021/WHR+21.pdf) utiliza datos procedentes de entrevistas a más de 350,000 personas de 95 países. Las clasificaciones no se basan en factores como los ingresos o la esperanza de vida, sino en la forma en que las personas califican su propia felicidad en una escala de 10 puntos. Aquí el top 10 de 2020, donde entran los cuatro países escandinavos 🇫🇮🇸🇪🇩🇰🇳🇴.
 
-![](/images/felicidad_paises.jpg)
+![](/lavacacion/images/felicidad_paises.jpg)
 
 Es algo no tan fácil de predecir ya que checando el [clima](https://es.wikipedia.org/wiki/Helsinki#Clima) de Helsinki (capital de Finlandia) es uno de los países más fríos y con prácticamente nada de luz solar durante el invierno.
 
-![](/images/temperaturaHelsinki.jpg)
+![](/lavacacion/images/temperaturaHelsinki.jpg)
 
 Los finlandeses pueden estar orgulloso de su sistema ya que no solo son los más felices sino que también tienen la [mejor educación del mundo](https://www.bbc.com/mundo/noticias-41232085).  
   

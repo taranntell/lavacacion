@@ -15,7 +15,7 @@ author_image: "/images/authors/diego.jpg"
 
 La Comisión Europea trabaja en el creación de un tipo de [pasaporte digital (certificado digital verde)](https://ec.europa.eu/commission/presscorner/detail/es/IP_21_1181) que esta diseñado para facilitar la circulación dentro de la Union Europea.  
 
-![](/images/vacuna_digital_verde_ehealth.jpg)
+![](/lavacacion/images/vacuna_digital_verde_ehealth.jpg)
 
 Ejemplo de un certificado de vacunación en papel y digital - fuente [aquí](https://ec.europa.eu/health/sites/health/files/ehealth/docs/trust-framework_interoperability_certificates_en.pdf)
 

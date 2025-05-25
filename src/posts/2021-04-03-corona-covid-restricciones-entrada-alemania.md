@@ -3,7 +3,7 @@ title: "Restricciones Actuales de Entrada a Alemania #covid"
 date: 2021-04-03T07:25:18.000Z
 slug: corona-covid-restricciones-entrada-alemania
 excerpt: "A partir del 30. de Marzo de 2021 las autoridades alemanas exigen presentar un resultado negativo de la prueba COVID-19. Lo que hace que al día de hoy (3.4.2021..."
-featured_image: /images/coronatest.jpg
+featured_image: /lavacacion/images/coronatest.jpg
 tags:
   - travel
   - europe

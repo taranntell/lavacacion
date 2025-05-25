@@ -26,7 +26,7 @@ Los estados del Este son
 *   [Sajonia](https://es.wikipedia.org/wiki/Sajonia)
 *   [Turingia](https://es.wikipedia.org/wiki/Turingia)
 
-![](/images/Screenshot-2019-10-13-at-12.33.28.png)
+![](/lavacacion/images/Screenshot-2019-10-13-at-12.33.28.png)
 
 **Aquí una lista de lo que tienes que hacer para empezar:**
 
@@ -36,13 +36,13 @@ Los estados del Este son
     Las carreras las puedes filtrar de acuerdo al estado/region, el grado, idioma etc 😍.  
     Aquí un ejemplo:
 
-![](/images/Screenshot-2019-10-13-at-13.28.12-1.png)
+![](/lavacacion/images/Screenshot-2019-10-13-at-13.28.12-1.png)
 
 *   Una vez que hayas encontrado una carrera que te guste. La herramienta del DAAD te enlaza directamente al programa internacional de dicha universidad.  
     Si tienes alguna pregunta manda un email a la universidad.  
     Están para ayudar 😊
 
-![](/images/Screenshot-2019-10-13-at-13.43.44-2.png)
+![](/lavacacion/images/Screenshot-2019-10-13-at-13.43.44-2.png)
 
 *   Listo. Aplica para el semestre y la carrera que quieras y cruza los dedos 🤞🏼
 
@@ -64,7 +64,7 @@ No vayas contra la corriente al final de todo, tu panorama se abrirá muchísimo
 Dependiendo de la carrera. A mi (Ingeniería en Informatica) me pidieron B2. Pero si quieres estudiar por ejemplo Germanística te piden C1 o C2.  
 Aquí una [descripción de los niveles](https://es.wikipedia.org/wiki/Marco_Común_Europeo_de_Referencia_para_las_lenguas):
 
-![](/images/Screenshot-2019-10-13-at-13.56.43.png)
+![](/lavacacion/images/Screenshot-2019-10-13-at-13.56.43.png)
 
 **¿En donde aprendí el nivel B2?**  
 Las universidades otorgan un curso de preparación para el examén de idomas. El curso se llama alemán para extranjeros (Deutsch für Ausländer).  

@@ -3,7 +3,7 @@ title: "Descubre China: Guía y Tipps de Nuestro Viaje"
 date: 2024-12-23T16:20:56.000Z
 slug: descubre_china_guia_y_tipps_de_nuestro_viaje
 excerpt: "Si es tu primera vez en China, ¡te va a encantar! Una de las grandes ventajas de visitar el país actualmente es que no se requiere visa, solo pasaporte [https:/..."
-featured_image: /images/fisherman_high.jpg
+featured_image: /lavacacion/images/fisherman_high.jpg
 tags:
   - travel
   - europe
@@ -39,7 +39,7 @@ A continuación, te compartimos los servicios y aplicaciones que hicieron de nue
 En diciembre de 2024, visitamos estas ciudades:  
 Shanghai - Wuxi - Xi’an (extras: Guerreros de Terracota) - Jinshanling (Gran Muralla) - Beijing - Chengdu - Chongqing - Longsheng (terrazas de arroz) - Guilin - Yangshuo - Hong Kong - Shenzhen.
 
-![](/images/map.jpg)
+![](/lavacacion/images/map.jpg)
 
 ### Dinero y banco
 
@@ -50,7 +50,7 @@ Shanghai - Wuxi - Xi’an (extras: Guerreros de Terracota) - Jinshanling (Gran M
 
 ### Jinshanling y la Gran Muralla China
 
-![](/images/oldwall.jpg)
+![](/lavacacion/images/oldwall.jpg)
 
 Desde Beijing, optamos por visitar Jinshanling, a 130 km al noreste, para ver el amanecer en la muralla. Aquí puedes explorar tanto secciones restauradas como originales.
 
@@ -59,7 +59,7 @@ Desde Beijing, optamos por visitar Jinshanling, a 130 km al noreste, para ver el
 
 ### Xi'an y los Guerreros de Terracota
 
-![](/images/terracota.jpg)
+![](/lavacacion/images/terracota.jpg)
 
   
 Los Guerreros de Terracota están en el distrito de Lintong, al este de Xi’an.
@@ -71,7 +71,7 @@ Los Guerreros de Terracota están en el distrito de Lintong, al este de Xi’an.
 
 ### Shanghai y su Museo de Astronomía
 
-![](/images/astronomy.jpg)
+![](/lavacacion/images/astronomy.jpg)
 
 El [Museo de Astronomía de Shanghai](https://www.sstm-sam.org.cn/#/en/home) es espectacular, aunque está lejos del centro.
 
@@ -80,7 +80,7 @@ El [Museo de Astronomía de Shanghai](https://www.sstm-sam.org.cn/#/en/home) es 
 
 ### Guilin y la Naturaleza
 
-![](/images/guilin.jpg)
+![](/lavacacion/images/guilin.jpg)
 
 La región de Guilin es única por sus paisajes naturales.
 
@@ -104,4 +104,4 @@ La región de Guilin es única por sus paisajes naturales.
 
 China es un destino fascinante con algo para todos: cultura, naturaleza, historia y gastronomía. Planea bien tu viaje, lleva las apps adecuadas, y prepárate para una experiencia inolvidable. ¡No olvides revisar [nuestro video para más inspiración](https://youtu.be/yO4b4gDyN2M?si=hRIIctxLCjulCGDT)!
 
-![](/images/panda.jpg)
+![](/lavacacion/images/panda.jpg)

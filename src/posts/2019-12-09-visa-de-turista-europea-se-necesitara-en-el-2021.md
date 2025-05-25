@@ -34,7 +34,7 @@ El ETIAS tendrá una validez de tres años, o la fecha de expiración del pasapo
 Si, siempre y cuando el país sea parte de la zona Schengen o del programa del ETIAS.  
 Así que no requires un ETIAS por cada país que esté en la zona Schengen que quieras visitar .
 
-![](/images/Screenshot-2019-12-09-at-22.17.16.png)
+![](/lavacacion/images/Screenshot-2019-12-09-at-22.17.16.png)
 
 Mas información quí: [https://etias.com/etias-countries/](https://etias.com/etias-countries/)
 

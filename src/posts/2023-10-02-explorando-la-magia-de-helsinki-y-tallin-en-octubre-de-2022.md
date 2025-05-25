@@ -3,7 +3,7 @@ title: "Explorando la Magia de Helsinki y Tallin"
 date: 2023-10-02T11:41:18.000Z
 slug: explorando-la-magia-de-helsinki-y-tallin-en-octubre-de-2022
 excerpt: "¡Bienvenidos a nuestro emocionante viaje a dos de las joyas bálticas, Helsinki y Tallin, durante el vibrante octubre de 2022! Nuestra aventura nos llevó a travé..."
-featured_image: /images/TU-190718-oodi-005_screen-1600x1066.jpg
+featured_image: /lavacacion/images/TU-190718-oodi-005_screen-1600x1066.jpg
 tags:
   - travel
   - europe

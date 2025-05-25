@@ -3,7 +3,7 @@ title: "La Casa de Verano de Einstein"
 date: 2021-03-06T15:10:15.000Z
 slug: la-casa-de-verano-de-einstein
 excerpt: "Si te encuentras en Berlin no te pierdas visitar Postdam y ya que estés en Postdam no te pierdas visitar Caputh [https://en.wikipedia.org/wiki/Caputh,_Brandenbu..."
-featured_image: /images/EinsteinCaputh.jpg
+featured_image: /lavacacion/images/EinsteinCaputh.jpg
 tags:
   - travel
   - europe
@@ -15,7 +15,7 @@ author_image: "/images/authors/diego.jpg"
 
 Si te encuentras en Berlin no te pierdas visitar Postdam y ya que estés en Postdam no te pierdas visitar [Caputh](https://en.wikipedia.org/wiki/Caputh,_Brandenburg) en donde se encuentra la casa de verano de Einstein.
 
-![](/images/image-1.png)
+![](/lavacacion/images/image-1.png)
 
 Dirección:  
 [Am Waldrand 17,  

@@ -21,7 +21,7 @@ De acuerdo a [Wikipedia](https://es.wikipedia.org/wiki/Neuschwanstein#Neuschwans
 **¿En dónde esta?**  
 El castillo está en la parte de los Alpes muy pegado a Austria a 120 km de Múnich.
 
-![](/images/Screenshot-2019-10-12-at-08.18.34.png)
+![](/lavacacion/images/Screenshot-2019-10-12-at-08.18.34.png)
 
   
 **¿Cuándo es la mejor fecha para visitar el castillo?**  
@@ -46,12 +46,12 @@ Puedes llegar caminando sobre la ruta romántica 🚶🏻‍♂️💓 , auto �
 *   🚶🏻‍♂️💓Lo ideal sería hacer la [ruta romántica](https://www.romantischestrasse.de/romantische-strasse/la-ruta-romantica-es-la-ruta-vacacional-mas-conocida-y-preferida-de-alemania/?L=8) que esta mega-chingón. Yo la tomé desde la ciudad de Schwangau - a unos 4 km del castillo. Los paisajes de camino al castillo son fenomenales. Aquí el mapa completo de la ruta romántica que empieza en Würzburg y termina no muy lejos del castillo - hasta abajo esta la del castillo.  
     La ruta romantica está señalada con unos letreros cafes que dicen Romantische Straße.
 
-![](/images/romantischestrasse.png)
+![](/lavacacion/images/romantischestrasse.png)
 
 *   🚕 En auto. Hay suficientes estacionamientos. Cuesta como 5 Euros por todo el día.
 *   🚂+🚐 Si vas en tren y autobús. Suponiendo que estás en Múnich, el viaje dura approx 2.30 hrs. Ten cuidado de no perder el último tren que es como a las 19.30hrs. De preferencia toma uno a las 18hrs para que no haya tanto estrés.
 
-![](/images/Screenshot-2019-10-12-at-07.46.50.png)
+![](/lavacacion/images/Screenshot-2019-10-12-at-07.46.50.png)
 
 Ultimo tren de regreso del castillo a Munich - Plan de Octubre 2019
 
@@ -97,7 +97,7 @@ Aceptan Visa, Mastercard, American Express, EC-Cash.
   
 **Aquí esta el itinerario ideal para la visita al castillo.**
 
-![](/images/neuschwansteinmap.jpg)
+![](/lavacacion/images/neuschwansteinmap.jpg)
 
 Llega temprano. De preferencia al rededor de las 9
 
@@ -108,7 +108,7 @@ Llega temprano. De preferencia al rededor de las 9
 
 **Lo que veras:**
 
-![](/images/70977617_2641318549266071_5727581467757536011_n-copy.jpg)
+![](/lavacacion/images/70977617_2641318549266071_5727581467757536011_n-copy.jpg)
 
 Castillo de Neuschwanstein
 
@@ -116,11 +116,11 @@ Castillo de Neuschwanstein
 
 El lago de los Alpes
 
-![](/images/neuschwanstein_bridge-1.png)
+![](/lavacacion/images/neuschwanstein_bridge-1.png)
 
 Puente de María - Marienbrücke
 
-![](/images/Warhol-Neuschwanstein.jpg)
+![](/lavacacion/images/Warhol-Neuschwanstein.jpg)
 
 Litografía por Andy Warhol
 

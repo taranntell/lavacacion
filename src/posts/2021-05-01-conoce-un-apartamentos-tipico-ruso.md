@@ -3,7 +3,7 @@ title: "Conoce un Apartamento Típico Ruso 🇷🇺🏠"
 date: 2021-05-01T06:00:55.000Z
 slug: conoce-un-apartamentos-tipico-ruso
 excerpt: "Vika la minimalrussiangirl [https://www.instagram.com/minimalrussiangirl/], en su video de youtube [https://youtu.be/JrJg4LP5E0E], nos da un grande y detallado..."
-featured_image: /images/minimalrussiangirl.jpg
+featured_image: /lavacacion/images/minimalrussiangirl.jpg
 tags:
   - travel
   - europe

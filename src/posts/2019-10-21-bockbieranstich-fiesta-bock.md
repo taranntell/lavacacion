@@ -75,11 +75,11 @@ En primavera y otoño
 **¿Que tienen de especial las cervezas bock?**  
 La respuesta es ¡Bockbieranstich! Que es un "festejo" donde cada cervecería abre sus puertas una vez al año (por lo general entre semana después de medio día) y se juntan miles de personas para consumir su cerveza bock.
 
-![](/images/2016-08-30_sandkerwa-feuerwerk02.jpg)
+![](/lavacacion/images/2016-08-30_sandkerwa-feuerwerk02.jpg)
 
 Cervecería Schlenkerla en Bamberg
 
-![](/images/mg_1605-1.jpg)
+![](/lavacacion/images/mg_1605-1.jpg)
 
 Bockbieranstich en la cervecería Mahrs Bräu en Bamberg
 
@@ -88,7 +88,7 @@ Bockbieranstich en la cervecería Mahrs Bräu en Bamberg
 **¿Y las fechas?**  
 Aquí las fechas sólo de las cervecerías de Bamberg y a sus alreadedores. ¡Las cuales les recomiendo mucho!
 
-![](/images/bockbiertermine.png)
+![](/lavacacion/images/bockbiertermine.png)
 
 La lista completa de los Bockbieranstich en Frankonia están [aquí](http://www.braufranken.de/html/bockbier.php)
 

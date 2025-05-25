@@ -3,7 +3,7 @@ title: "De Munich A Venezia en Bicicleta"
 date: 2021-07-18T18:33:16.000Z
 slug: de-munich-a-venezia-en-bicicleta-600-km-7-dias
 excerpt: "¡Una aventura mas termina! El viaje en bicicleta de Munich a Venezia fue un éxito. En total son 600 km y lo recorrimos en 7 días. Aquí está nuestro video [http..."
-featured_image: /images/IMG_0603.jpg
+featured_image: /lavacacion/images/IMG_0603.jpg
 tags:
   - travel
   - europe

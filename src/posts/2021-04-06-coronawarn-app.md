@@ -15,7 +15,7 @@ author_image: "/images/authors/diego.jpg"
 
 Comandada por el [Robert Koch Institute](https://www.rki.de/EN/Home/homepage_node.html), la [Corona-Warn App](https://www.coronawarn.app/en/) es una app ([Open Source](https://github.com/corona-warn-app/cwa-website )) que ayuda a seguir e interrumpir las cadenas de infección del COVID en Alemania y Europa. La app se basa en tecnologías con un enfoque descentralizado e informa a las personas si han estado en contacto con una persona infectada.
 
-![](/images/coronawarnapp.jpg)
+![](/lavacacion/images/coronawarnapp.jpg)
 
 Corona-Warn App - iOS Screenshots
 

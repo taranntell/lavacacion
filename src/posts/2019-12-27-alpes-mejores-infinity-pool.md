@@ -130,7 +130,7 @@ No te olvides de empacar tus botas para hacer senderismo. Estando allá arriba s
 Ski  
 La mayoría de los hoteles tienen paquetes para esquiar. Por ejemplo [Aqua Dome](https://www.aqua-dome.at/en/)  ofrece 3 noches + SPA y el pase para esquiar dos días por 598 € por persona
 
-![](/images/Screenshot-2019-12-27-at-12.00.41.png)
+![](/lavacacion/images/Screenshot-2019-12-27-at-12.00.41.png)
 
 [https://www.aqua-dome.at/en/offers/ski-spa/](https://www.aqua-dome.at/en/offers/ski-spa/)
 

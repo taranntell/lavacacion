@@ -3,7 +3,7 @@ title: "Visita Paris/Roland Garros 🎾"
 date: 2019-12-29T09:07:12.000Z
 slug: paris-roland-garros
 excerpt: "Aún estas a tiempo de ver a los tres grandes del tenis (Federer, Nadal y Djokovic) a su nivel top en un Grand Slam [https://es.wikipedia.org/wiki/Grand_Slam_(t..."
-featured_image: /images/maxresdefault.jpg
+featured_image: /lavacacion/images/maxresdefault.jpg
 tags:
   - travel
   - europe
@@ -28,7 +28,7 @@ France
 **¿Cómo conseguir tickets?**  
 La venta de boletos para el público en general empieza el Miércoles 25 de Marzo de 2020 a las 10 AM hora en Europa - 03:00 AM hora en CDMX  y hay un last minute el 6 de Mayo de 2020. Más infos aquí:
 
-![](/images/Screenshot-2019-12-28-at-22.16.50.png)
+![](/lavacacion/images/Screenshot-2019-12-28-at-22.16.50.png)
 
 https://tickets.rolandgarros.com/en/general/informations#avantages
 
@@ -54,11 +54,11 @@ Nota: Cuando estaba comprando los boletos, el sistema no me acepto mi tarjeta de
 Estos son los tickets que compre en el 2019 con todo y precios. Fui con un amigo, por eso aparecen dobles. Por cada compra cobran un extra de 4€.  
 Tambien compre un seguro contra mal clima. En caso si llovia y se cancelaba el partido. No siento que sea necesario a no ser de que vayas a una semifinal o final. Pero por ejemplo hubo un partido que duro mucho y a todos los que tenian boleto los dejaron entrar al siguiente día a ver la segunda parte.
 
-![](/images/Screenshot-2019-12-29-at-08.41.16.png)
+![](/lavacacion/images/Screenshot-2019-12-29-at-08.41.16.png)
 
 Aquí la lista completa de precios del 2019. Roland Garros aún no publica la lista definitiva para el 2020 pero te puedes dar una idea de precios en el 2020:
 
-![](/images/prix-places-roland-garros-2019-tarifs-publics-billets-d-tail-philippe-chatrier-suzanne-lenglen-simonne-mathieu-annexes.jpg)
+![](/lavacacion/images/prix-places-roland-garros-2019-tarifs-publics-billets-d-tail-philippe-chatrier-suzanne-lenglen-simonne-mathieu-annexes.jpg)
 
 **¿Cuáles son las restricciones de la compra de boletos?**  
 
@@ -71,7 +71,7 @@ Aquí la lista completa de precios del 2019. Roland Garros aún no publica la li
 **¿Qué hay nuevo para el #RG2020?**  
 Esta vez se estrenará un nuevo techo retráctil en el estadio principal Philippe-Chatrier. Esto impedira que los partidos (sobre todo de la final) se cancelen, se traspacen al siguiente día o se retarden ya que el techo retractil se cerrara cuando sea necesario.  
 
-![](/images/Screenshot-2019-12-28-at-22.42.58.png)
+![](/lavacacion/images/Screenshot-2019-12-28-at-22.42.58.png)
 
 Viejo y nuevo estadio de Philippe-Chatrier
 

@@ -37,7 +37,7 @@ El 24 de Diciembre solo de 10:00 a 14:00 horas
 *   El mercado internacional. Aquí encontrarás puestos de muchas partes del mundo con típicas especialidades.
 *   El Feuerzangenbowle más grande del mundo. Este es una olla enorme caliente de donde sirven un tipo ponche Alemán. Mas infos [aquí](https://es.wikipedia.org/wiki/Feuerzangenbowle)
 
-![](/images/mapaNuremberg.png)
+![](/lavacacion/images/mapaNuremberg.png)
 
 **¿Qué como, que postre, que chupo?**
 

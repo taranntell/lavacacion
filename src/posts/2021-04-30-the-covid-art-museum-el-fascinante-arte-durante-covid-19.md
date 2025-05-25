@@ -3,7 +3,7 @@ title: "The Covid Art Museum: El Fascinante Arte Durante Covid-19"
 date: 2021-04-30T04:00:00.000Z
 slug: the-covid-art-museum-el-fascinante-arte-durante-covid-19
 excerpt: "El Covid Art Museum [https://covidartmuseum.com] es un proyecto/museo virtual que se ha encargado de llenar su página de Instagram con obras de arte dedicadas a..."
-featured_image: /images/covidArtMuseum.jpg
+featured_image: /lavacacion/images/covidArtMuseum.jpg
 tags:
   - travel
   - europe
@@ -17,24 +17,24 @@ El [Covid Art Museum](https://covidartmuseum.com) es un proyecto/museo virtual q
 
 El proyecto esta abierto para todo mundo; si quieres ser parte de este puedes adjuntar tu foto, expresión, arte...  a través de un formulario adjunto en su perfil de Instagram, o bien posteando tu foto con el hashtag [__#covidartmuseum__](https://www.instagram.com/explore/tags/covidartmuseum/).
 
-![](/images/cam_1.jpg)
+![](/lavacacion/images/cam_1.jpg)
 
 De [Instagram](https://www.instagram.com/p/B-44JoZq8tp/)
 
-![](/images/cam_2.jpg)
+![](/lavacacion/images/cam_2.jpg)
 
 De [Instagram](https://www.instagram.com/p/B-6tN_nqppJ/)
 
-![](/images/cam_4.jpg)
+![](/lavacacion/images/cam_4.jpg)
 
 De [Instagram](https://www.instagram.com/p/B-1jqb9DuT5/)
 
-![](/images/cam_5.jpg)
+![](/lavacacion/images/cam_5.jpg)
 
-![](/images/cam_6.jpg)
+![](/lavacacion/images/cam_6.jpg)
 
 De [Instagram](https://www.instagram.com/p/B_NLB_tijL2/) 
 
-![](/images/cam_3.jpg)
+![](/lavacacion/images/cam_3.jpg)
 
 De [Instagram](https://www.instagram.com/p/B-1jqb9DuT5/)

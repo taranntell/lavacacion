@@ -47,7 +47,7 @@ Aquí les dejo la receta de la bis-abuela de mi novia 🤤
 \* Hornear a 180° al rededor de 1 hora y dejar 20 minutos con el horno apagado.  
 **Ojo 👀** el pastel se quema muy rápido y no esta bien, éste tiene que quedar dorado.
 
-![](/images/kaesekuchen.jpg)
+![](/lavacacion/images/kaesekuchen.jpg)
 
 Foto original - Käsekuchen
 

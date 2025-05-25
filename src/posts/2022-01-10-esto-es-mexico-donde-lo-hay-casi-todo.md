@@ -3,7 +3,7 @@ title: "Esto es México, donde lo hay casi todo."
 date: 2022-01-10T19:23:32.000Z
 slug: esto-es-mexico-donde-lo-hay-casi-todo
 excerpt: "El viaje de México termino, en total disparé 3000 veces la cámara - entre fotos y videos. Recorrimos por casi cuatro semanas algunas partes del centro y el sur..."
-featured_image: /images/salvavidas.jpg
+featured_image: /lavacacion/images/salvavidas.jpg
 tags:
   - travel
   - europe

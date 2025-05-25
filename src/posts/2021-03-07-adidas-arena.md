@@ -3,7 +3,7 @@ title: "Adidas Arena"
 date: 2021-03-07T10:54:53.000Z
 slug: adidas-arena
 excerpt: "Adidas está \"estrenando\" (~2018) nuevas oficinas centrales. La famosa Adidas ARENA construida por Behnisch Architekten [https://behnisch.com/work/projects/118..."
-featured_image: /images/adidas.jpg
+featured_image: /lavacacion/images/adidas.jpg
 tags:
   - travel
   - europe

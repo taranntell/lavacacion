@@ -3,7 +3,7 @@ title: "La Tipografía de Berlín"
 date: 2021-04-20T16:53:37.000Z
 slug: la-tipografia-de-berlin
 excerpt: "Una de las ciudades más interesantes de Alemania es sin duda Berlín 🐻. Tiene tanta historia, culturas, mezclas que solo basta con recorrer sus calles para cono..."
-featured_image: /images/typographyBerlin.jpg
+featured_image: /lavacacion/images/typographyBerlin.jpg
 tags:
   - travel
   - europe

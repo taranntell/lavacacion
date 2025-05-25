@@ -19,7 +19,7 @@ Si estas viajando por Europa o planeado visitar, el [Consejo Europeo de Informac
 
 [Aquí la lista](https://www.eufic.org/en/explore-seasonal-fruit-and-vegetables-in-europe) 🍇🥦
 
-![](/images/seasonalfood.jpg)
+![](/lavacacion/images/seasonalfood.jpg)
 
 Puede que falten productos en la lista, como por ejemplo las aceitunas/olivos que no encontré, cosa que la EUFIC irá agregando con el tiempo.
 

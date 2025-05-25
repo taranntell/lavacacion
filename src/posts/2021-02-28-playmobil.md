@@ -3,7 +3,7 @@ title: "Playmobil 🪁 Visita el parque"
 date: 2021-02-28T08:21:06.000Z
 slug: playmobil
 excerpt: "Nombre: Playmobil FunPark Página: https://www.playmobil-funpark.de Dirección: Brandstätterstraße 2-10, Zirndorf, 90513 Alemania Horarios: Por el momento ce..."
-featured_image: /images/playmobilfunpark.jpg
+featured_image: /lavacacion/images/playmobilfunpark.jpg
 tags:
   - travel
   - europe
@@ -35,6 +35,6 @@ Por el momento cerrado por Corona. Los horarios los actualizo en cuanto haya nue
 *   Playmobil tambien tiene un hotel diseñado para tener una mejor experiencia en la visita al parque [https://www.playmobil-hotel.de](https://www.playmobil-hotel.de).
 *   Playmobil tiene otra marca de macetas que se llama Lechuza, aquí ésta es la página [https://www.lechuza.de](https://www.lechuza.de) --> Un buen regalo es la maceta de Playmobil - Lechuza, la puedes encontrar en el la tienda por ~20€
 
-![](/images/image.png)
+![](/lavacacion/images/image.png)
 
 [https://www.instagram.com/p/CLMfb\_ZjURF/](https://www.instagram.com/p/CLMfb_ZjURF/)

@@ -18,7 +18,7 @@ Barcelona es sin duda un lugar espléndido por conocer. Hay tanto que ver, tanto
 **¿Cuándo visitar?**  
 Aquí el clima de la ciudad, [según Wikipedia](https://es.wikipedia.org/wiki/Barcelona#Clima)
 
-![](/images/Screenshot-2020-01-18-at-20.48.39.png)
+![](/lavacacion/images/Screenshot-2020-01-18-at-20.48.39.png)
 
 **City Tours**  
 Una buena forma de conocer sobre la historia de Barcelona es sin duda a traves de un tour gratis, esos que solo se deja propina al final.  
@@ -28,7 +28,7 @@ Yo lo tome con Paco de [https://www.civitatis.com/en/barcelona/free-tour-barcelo
 Una buena (y creo la mas barata) forma de moverte por el centro de Barcelona es comprando la tarjeta de T10 (T-casual). Esta solo se puede comprar en el metro y no en las paradas de autobuses. Cuesta 11.35€ = 1.135€ por viaje.  
 Nota: La tarjeta la pueden usar muchas personas, no es necesario comprar una tarjeta por persona.
 
-![](/images/Screenshot-2020-01-18-at-21.21.08.png)
+![](/lavacacion/images/Screenshot-2020-01-18-at-21.21.08.png)
 
 Para mas información visita [https://www.tmb.cat/es/tarifas-metro-bus-barcelona/sencillos-e-integrados/t-casual](https://www.tmb.cat/es/tarifas-metro-bus-barcelona/sencillos-e-integrados/t-casual)
 

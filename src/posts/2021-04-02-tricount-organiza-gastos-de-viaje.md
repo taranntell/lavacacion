@@ -15,7 +15,7 @@ author_image: "/images/authors/diego.jpg"
 
 Esta [App](https://www.tricount.com/es/) ([https://www.tricount.com/es/](https://www.tricount.com/es/)) hace una cosa bastante bien y es la de calcular quién le debe a quién y cuánto. Es ideal para los viajes en grupos, aunque también para el día a día - para los gastos del super, con los roomies, tu pareja, etc.
 
-![](/images/tricount@0.5x.jpg)
+![](/lavacacion/images/tricount@0.5x.jpg)
 
 Las ventajas de usar Tricount:
 

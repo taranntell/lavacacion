@@ -23,7 +23,7 @@ Otra muy buena alternativa es [Check24.de](https://mietwagen.check24.de)
   
 Aquí un ejemplo de Miet24 de un carro pequeño por 20 €
 
-![](/images/Screenshot-2019-11-11-at-19.45.14.png)
+![](/lavacacion/images/Screenshot-2019-11-11-at-19.45.14.png)
 
 **¿Cuáles son los límites de velocidad?**  
 Si te late tupirle. Alemania es el paraíso para manejar. En la carretera (Autobahn) en muchos tramos no hay limite 🤩 pero se recomienda viajar a 130 km/h.  
@@ -56,4 +56,4 @@ En Alemania son gratis ¡¡¡
 **¿Cuánto esta el precio de la gasolina?**  
 Aquí una [lista](https://www.adac.de/verkehr/tanken-kraftstoff-antrieb/ausland/spritpreise-ausland/) de los precios de la gas
 
-![](/images/Screenshot-2019-11-11-at-19.33.33.png)
+![](/lavacacion/images/Screenshot-2019-11-11-at-19.33.33.png)

@@ -22,11 +22,11 @@ En la lista actual (21.12.2019) hay 25 ofertas en ramas de Ingenerías en Inform
 En este link están todas las ofertas:  
 [https://www.empleo.gob.mx/trabaja-en-el-extranjero](https://www.empleo.gob.mx/trabaja-en-el-extranjero)
 
-![](/images/Screenshot-2019-12-21-at-07.50.50.png)
+![](/lavacacion/images/Screenshot-2019-12-21-at-07.50.50.png)
 
-![](/images/Screenshot-2019-12-21-at-07.54.29.png)
+![](/lavacacion/images/Screenshot-2019-12-21-at-07.54.29.png)
 
-![](/images/Screenshot-2019-12-21-at-07.54.39.png)
+![](/lavacacion/images/Screenshot-2019-12-21-at-07.54.39.png)
 
 El trabajo mejor pagado listado es de [Analista AX](https://www.empleo.gob.mx/57-busqueda-de-ofertas-de-empleo-en-el-extranjero-ANALISTA-AX-Alemania) con un sueldo neto de $95,817.00. Esta es la description de la ocupación:
 

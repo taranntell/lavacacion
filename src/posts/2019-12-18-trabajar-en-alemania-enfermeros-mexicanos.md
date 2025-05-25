@@ -29,7 +29,7 @@ Aquí un video para que le vayas midiendo el agua a los camotes
 
 Esta es una [fecha técnica](https://www.arbeitsagentur.de/vor-ort/zav/download/1533728892789.pdf) para Licenciados en Enfermería en el Universitätsklinikum en Bonn.
 
-![](/images/Screenshot-2019-12-18-at-21.47.00.png)
+![](/lavacacion/images/Screenshot-2019-12-18-at-21.47.00.png)
 
 **¿Cómo inscribirte?**  
 Si cuentas con los requisitos y estas interesado ingresa a este link para inscribirte:  
@@ -45,12 +45,12 @@ Aquí la [información](https://www.arbeitsagentur.de/vor-ort/zav/content/153372
 **¿Qué documentos necesitas?**  
 Este es el [documento](https://www.arbeitsagentur.de/vor-ort/zav/download/1533726459756.pdf) oficial con los documentos requeridos:
 
-![](/images/Screenshot-2019-12-18-at-20.56.01.png)
+![](/lavacacion/images/Screenshot-2019-12-18-at-20.56.01.png)
 
 **¿Cuánto dura el proceso de reclutamiento?**  
 Este es el [proceso](https://www.arbeitsagentur.de/vor-ort/zav/download/1533726560376.pdf) del primer reclutamiento y sus diferentes procesos
 
-![](/images/Screenshot-2019-12-18-at-21.00.15.png)
+![](/lavacacion/images/Screenshot-2019-12-18-at-21.00.15.png)
 
 ^
 

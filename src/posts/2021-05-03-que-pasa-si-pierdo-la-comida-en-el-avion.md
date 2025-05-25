@@ -3,7 +3,7 @@ title: "¿Qué Pasa si Pierdo la Comida en el Avión?"
 date: 2021-05-03T06:32:41.000Z
 slug: que-pasa-si-pierdo-la-comida-en-el-avion
 excerpt: "Responde un alto miembro de la tripulación de cabina en el siguiente fórum [https://travel.stackexchange.com/q/99465]: > No hay de que preocuparse, debemos des..."
-featured_image: /images/airplaneFood.jpg
+featured_image: /lavacacion/images/airplaneFood.jpg
 tags:
   - travel
   - europe

@@ -51,7 +51,7 @@ No mms.
 
 Por ejemplo éste de México a Nuremberg del 8 de Diciembre al 1 de Enero del 2022 cuesta 1,284.26 € unos $ 31,136 MXN - WTF 😲
 
-![](/images/flightMEX_Europe_HigherPrice.jpg)
+![](/lavacacion/images/flightMEX_Europe_HigherPrice.jpg)
 
 La explicación más razonable (sin caer en [teorías de conspiración](https://es.wikipedia.org/wiki/Teor%C3%ADa_conspirativa)) la describe la ley de oferta y demanda.  
 

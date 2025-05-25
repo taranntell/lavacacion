@@ -3,7 +3,7 @@ title: "Rammstein Pospone su Gira por Europa Pero no Por México, USA y Canada"
 date: 2021-04-16T20:00:53.000Z
 slug: rammstein-pospone-gira-europa-pero-no-mexico-usa-canada
 excerpt: "Debido a la pandemia Rammstein se vio obligado (de nuevo) a posponer su gira por Europa, pasando sus fechas en Europa para el 2022. Así la lista [https://www.ra..."
-featured_image: /images/Rammstein.jpg
+featured_image: /lavacacion/images/Rammstein.jpg
 tags:
   - travel
   - europe
@@ -15,7 +15,7 @@ author_image: "/images/authors/diego.jpg"
 
 Debido a la pandemia Rammstein se vio obligado (de nuevo) a posponer su gira por Europa, pasando sus fechas en Europa para el 2022. Así la [lista](https://www.rammstein.de/de/tickets/):
 
-![](/images/rammsteinFechasTour.jpg)
+![](/lavacacion/images/rammsteinFechasTour.jpg)
 
 Rammstein esta promoviendo su último disco titulado ["Álbum sin título"](https://es.wikipedia.org/wiki/Álbum_sin_título_de_Rammstein) que incluye ["Deutschland"](https://es.wikipedia.org/wiki/Deutschland_\(canción\)), una de sus canciones más exitosas y con una gran polémica ya que varias escenas de su video son algo oscuras y violetas, tocando temas sensibles como el de los Nazis.  
 En sí (y para nosotros) el video es una joya, con una producción y ejecución tremenda, llevando los videos musicales a otro nivel - El video proyecta la historia de Alemania desde la conquista de Germania hasta los ataques y atentados de la [RAF](https://es.wikipedia.org/wiki/Fracci%C3%B3n_del_Ej%C3%A9rcito_Rojo).  

@@ -3,7 +3,7 @@ title: "En Portugal se Inaugura el Puente Colgante Peatonal Más Largo Del Mundo
 date: 2021-05-02T04:00:00.000Z
 slug: se-inaugura-en-portugal-el-puente-colgante-peatonal-mas-largo-del-mundo
 excerpt: "Portugal se prepara para inaugurar el día de hoy (2 de Mayo) el puente más grande del mundo. El puente mide un poco más de medio kilómetro de largo, 516 metros..."
-featured_image: /images/Puente-516-Arouca-Puente-Mas-Grande-Del-Mundo.jpg
+featured_image: /lavacacion/images/Puente-516-Arouca-Puente-Mas-Grande-Del-Mundo.jpg
 tags:
   - travel
   - europe

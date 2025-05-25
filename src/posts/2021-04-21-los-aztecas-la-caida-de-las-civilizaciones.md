@@ -3,7 +3,7 @@ title: "Video Podcast 🎙La Caída de las Civilizaciones"
 date: 2021-04-21T16:15:23.000Z
 slug: los-aztecas-la-caida-de-las-civilizaciones
 excerpt: "> Lo que dejas atrás no es lo que se graba en monumentos de piedra, sino lo que se teje en la vida de los demás. Pericles [https://es.wikipedia.org/wiki/Pericle..."
-featured_image: /images/aztecas.jpg
+featured_image: /lavacacion/images/aztecas.jpg
 tags:
   - travel
   - europe

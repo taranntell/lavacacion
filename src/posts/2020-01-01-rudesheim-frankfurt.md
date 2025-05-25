@@ -28,7 +28,7 @@ Rüdesheim es ideal si te gustan los pueblillos sacados del cuento de adas y el 
 **Ubicación**  
 Rüdesheim se encuentra a 65km (49 minutos en auto) de Frankfurt Am Main en la región de Hessen en Alemania. Una buena idea es quedarte en Frankfurt y viajar en coche a Rüdesheim, en el camino hay muchos viñedos, castillos que valen la pena conocer con una vista tremenda como el [Castillo de Reichenstein](https://www.burg-reichenstein.com/en/).
 
-![](/images/Screenshot-2020-01-01-at-18.18.46.png)
+![](/lavacacion/images/Screenshot-2020-01-01-at-18.18.46.png)
 
 **Actividades**  
 Hay varias actividades que se pueden llevar acabo estando en Rüdesheim. La primera es conocer el pueblo, pasear comer, tomarte una buena copa de vino y talves hasta un helado.  
@@ -67,7 +67,7 @@ El precio varia mucho del pueblo la comida y el paquete. Pero para que se den un
 *   2 noches en el hotel [Rheinhotel Starkenbur](http://www.rheinhotel-starkenburger.de/indexeng.htm) con desayuno buffet incluido
 *   Viaje en el bote con cena de 3 tiempos y espectáculo de fuegos artificiales.
 
-![](/images/Screenshot-2020-01-01-at-20.19.42.png)
+![](/lavacacion/images/Screenshot-2020-01-01-at-20.19.42.png)
 
 [https://23343.reservix.de/events?q=flammen](https://23343.reservix.de/events?q=flammen)
 

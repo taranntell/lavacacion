@@ -17,7 +17,7 @@ Quedan confirmadas las fechas de la Eurocopa 2020.  Se llevará acabo del 11 de
   
 Así queda el plan, los grupos, las fechas y las sedes ([link aquí](https://www.uefa.com/MultimediaFiles/Download/competitions/General/02/56/07/72/2560772_DOWNLOAD.pdf)):
 
-![](/images/eurocup_2021_match_schedule.jpg)
+![](/lavacacion/images/eurocup_2021_match_schedule.jpg)
 
 La UEFA ha estado [posteando actualizaciones](https://es.uefa.com/uefaeuro-2020/stories/) con respecto al torneo, referente a COVID y el torneo en sí.  
   

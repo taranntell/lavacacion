@@ -19,6 +19,6 @@ Aquí les dejo dos páginas para comprar tickets en Europa bastaste practicas pa
 ★ [raileurope.com](https://www.raileurope.com/en)  
 [thetrainline.com](https://www.thetrainline.com)
 
-![](/images/raileurope_lista_destinos.png)
+![](/lavacacion/images/raileurope_lista_destinos.png)
 
 Tipp: De acuerdo a las leyes europeas, si su tren llega con retraso de por lo menos una hora tienen derecho de reclamar el 25% del precio original 😉.

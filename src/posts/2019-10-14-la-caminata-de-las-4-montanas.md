@@ -44,7 +44,7 @@ En primera es un buen reto. No duermes en todo un día, ves a miles de personas 
 Algo interesante es que los vecinos del pueblo abren sus casas llenos de comida, pasteles caseros, aguas y una muy buena sonrisa. Aunque no te piden nada a cambio, deja un poco de dinero. Todo está riquísimo.  
 Por la mañana cuando empieza a salir el sol los caminos se llenan de niños con canastas vacías, las cuales se van llenando de dulces que los peregrinos les damos 😍
 
-![](/images/46443304961_314F5DB154_O.jpeg)
+![](/lavacacion/images/46443304961_314F5DB154_O.jpeg)
 
 **¿Es seguro?**  
 Sí muy seguro, esta súper bien organizado. En el camino hay bastantes paramedicos, ambulancias, protección civil, puestos de comida y bastante agua.
@@ -56,7 +56,7 @@ Sí muy seguro, esta súper bien organizado. En el camino hay bastantes paramedi
 3.  Le sigue la montaña de Veit (Veitsberg)
 4.  Y termina en la montaña de Lorenz (Lorenziberg)
 
-![](/images/Karte4Berge2004.gif)
+![](/lavacacion/images/Karte4Berge2004.gif)
 
 **¿Qué debo de llevar?**
 
@@ -71,7 +71,7 @@ Sí muy seguro, esta súper bien organizado. En el camino hay bastantes paramedi
 **¿En donde me quedo a dormir?**  
 Nosotros nos quedamos en una cabaña en las montañas que encontramos en AirBnB muy cerca de la ciudad de St. Veit. Aquí si es recomendable ir en auto.
 
-![](/images/42385545084_d6fea7fd18_o.jpg)
+![](/lavacacion/images/42385545084_d6fea7fd18_o.jpg)
 
 Una foto desde la cabaña un día después de la caminata
 

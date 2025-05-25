@@ -3,7 +3,7 @@ title: "El Examen de la Nacionalidad"
 date: 2021-03-31T05:58:45.000Z
 slug: examen-nacionalidad-alemana
 excerpt: "No se si sea de broma pero sí, para tener la nacionalidad te hacen un examen que es de los más fáciles del mundo. El examen consta de 33 preguntas, y se acredit..."
-featured_image: /images/einb-rgerungstest@0.5x.jpg
+featured_image: /lavacacion/images/einb-rgerungstest@0.5x.jpg
 tags:
   - travel
   - europe

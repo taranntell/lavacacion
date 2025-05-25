@@ -17,7 +17,7 @@ Europa se vestirá de fiesta en verano de 2020 para vivir la EURO como pocas vec
 
 [Aquí](https://www.uefa.com/uefaeuro-2020/news/0254-0d41684d1216-06773df7faed-1000--euro-2020-schedule-all-the-fixtures/?iv=true) la lista de los grupos y los estadios donde se jugarán los partidos.
 
-![](/images/Screenshot-2019-12-01-at-15.18.42.png)
+![](/lavacacion/images/Screenshot-2019-12-01-at-15.18.42.png)
 
 UEFA EURO 2020
 
@@ -59,7 +59,7 @@ Puedes solicitar entradas individuales para un máximo de cuatro personas por pa
 **Precios** 🤑  
 Así los precios:
 
-![](/images/Screenshot-2019-12-01-at-19.54.56.png)
+![](/lavacacion/images/Screenshot-2019-12-01-at-19.54.56.png)
 
 ¡Ojo! Las entradas de Fan First son las mismas de Categoría 3, la diferencia es el precio. Si quieres tener mas posibilidades de ganar una entrada elige de Categoría 3 ya que el [monto](https://support.tickets-euro2020.uefa.com/hc/es/articles/360010412400--Qué-diferencia-hay-entre-una-entrada-Fans-First-de-categor%C3%ADa-3-y-una-entrada-normal-de-categor%C3%ADa-3-) de los boletos para esta categoría es mucho mayor.  
   

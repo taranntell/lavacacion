@@ -15,7 +15,7 @@ author_image: "/images/authors/diego.jpg"
 
 Lo atractivo de [Maps.me](https://mapsme.es) es que puedes descargar los mapas gratis a tu smartphone, sin necesidad de registrarte y usarlos sin conexión internet, muy útil por si viajas a lugares donde no hay buena señal 🏞 o cuándo tienes datos limitados o nada de datos.
 
-![](/images/mapsme-offlineMaps.jpg)
+![](/lavacacion/images/mapsme-offlineMaps.jpg)
 
 Entre las rutas de navegación comunes como auto y pie, Maps.me ofrece también rutas para bicicleta y transporte público e igual sin necesidad de estar conectado internet y muchas veces más exactas que las de Apple Maps. Esto es posible ya que el motor detrás de Maps.me es [OpenStreetMaps](https://es.wikipedia.org/wiki/OpenStreetMap) - los mapas libres con una gran comunidad agregando y editando mapas, rutas y demás.  
   

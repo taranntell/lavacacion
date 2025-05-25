@@ -22,7 +22,7 @@ Idioma: Hebreo
 Capital: Jerusalén  
 Días de descanso: El sábado aka [sabbat](https://es.wikipedia.org/wiki/Sabbat). **Importante!** A partir del viernes al atardecer hasta el domingo en la mañana no se trabaja y hay muy pocos servicios abiertos como locales, restaurantes y el transporte es limitado. Los museos están abiertos en horarios reducidos.
 
-![](/images/IMG_1717-1.JPG)
+![](/lavacacion/images/IMG_1717-1.JPG)
 
 **¿Qué lugares/ciudades por conocer?**  
 Dependiendo del tiempo en el que vas a estar. Los más recomendables son:
@@ -35,7 +35,7 @@ Dependiendo del tiempo en el que vas a estar. Los más recomendables son:
 Así está el clima en Jerusalén según [wikipedia](https://es.wikipedia.org/wiki/Jerusalén#Clima). Mi recomendación sería ir ya sea de Abril a Mayo o de Octubre a Novimbre. Esto también porque los precios durante el verano son mas caros por ser temporada alta.  
 Ten en cuenta que Jerusalén y Tel Aviv sólo están a 60 km de distancia, ósea que comparten un clima my similar.
 
-![](/images/Screenshot-2019-12-12-at-20.16.11.png)
+![](/lavacacion/images/Screenshot-2019-12-12-at-20.16.11.png)
 
 https://es.wikipedia.org/wiki/Jerusalén#Clima
 
@@ -51,7 +51,7 @@ Una ciudad bastante moderna, algo europea, muy liberal, súper hipster, extremad
 *   Buenos bares y clubs + after-parties, riquísimos restaurantes,...  
     
 
-![](/images/IMG_1751.JPG)
+![](/lavacacion/images/IMG_1751.JPG)
 
 **¿En donde comer en Tel Aviv?**
 
@@ -63,14 +63,14 @@ Una ciudad bastante moderna, algo europea, muy liberal, súper hipster, extremad
 *   [Mercado de Carmel](https://goo.gl/maps/eo68Xe1Rrofb7h8o8) en el mercado y a sus alrededores hay bastantes restaurantes donde se puede comer la comida tradicional
 *   [Hummus Abu Hassan](https://goo.gl/maps/885EBcvXvPfR6DyD9). Probablemente los mejores [Hummus](https://es.wikipedia.org/wiki/Hummus) de la región
 
-![](/images/IMG_1747.jpeg)
+![](/lavacacion/images/IMG_1747.jpeg)
 
 **¿En dónde quedarte?**  
 Te recomiendo que te quedes cerca de la calle de [Allenby](https://goo.gl/maps/o3zhw3S3hCBtSXZD8) ya que aquí hay muy buenos bares, restaurantes, cerca de la [Plaza de Dizengoff](https://es.wikipedia.org/wiki/Plaza_Dizengoff) ,  céntrica y cerca de la playa.  
   
 AirBnB es buena opción. Caminando rumbo a mi cuarto me encontre con este hostal:  [https://www.hayarkonhostel.com](https://www.hayarkonhostel.com) que ofrece varios tours, su terraza está agusto y tiene muy buena conexión al aeropuerto ya que a unos pasos esta la parada de autobus (cuesta 9.30 shekels) que va y viene directo al aeropuerto.
 
-![](/images/IMG_1746.JPG)
+![](/lavacacion/images/IMG_1746.JPG)
 
 **¿Qué no te puedes perder en Jerusalén?**  
 De preferencia quedate 2 0 3 días en Jerusalén. Hay mucho que ver pero claro depende que tan interesado estés en iglesias, la biblia, religión, arqueología,...  
@@ -88,12 +88,12 @@ Lo que si no te puedes perder es:
 *   El [Hospicio Austriaco de la Sagrada Familia](https://www.austrianhospice.com/en/)
 *   El mercado [Mahane Yehuda](https://es.wikipedia.org/wiki/Mercado_Mahane_Yehuda)
 
-![](/images/IMG_1801.jpg)
+![](/lavacacion/images/IMG_1801.jpg)
 
 **Restaurante Machneyuda**  
 Hay un restaurante que está de super lujo. Sin duda no puedes no dejar de visitarlo. Se llama [Machneyuda](https://www.machneyuda.co.il/?lang=en) y es toda una delicia. Un poco caro pero vale mucho la pena.
 
-![](/images/IMG_1818-1.jpg)
+![](/lavacacion/images/IMG_1818-1.jpg)
 
 El restaurante tiene dos horarios. De 12:30 a 16:00 y de 18:30 a 24 horas.  
 Si puedes ve de 18:30 a 24 horas. Además de la comida suculenta, la música es a tope, los meseros traen buen humor, regalan shots.  
@@ -112,11 +112,11 @@ En [Tel Aviv y Jerusalén](https://www.neweuropetours.eu/es/), la compañia Sand
 **Transporte**  
 El transporte público es muy barato. Por ejemplo, un viaje sencillo en Jerusalén cuesta 1.70 $USD. Son comunes el autobús, tranvía (sólo en Jerusalén) y el tren.
 
-![](/images/IMG_1754-1.JPG)
+![](/lavacacion/images/IMG_1754-1.JPG)
 
 Aquí es importante que compres la tarjeta [Rav-Kav](https://www.rail.co.il/en/ravkav) para el transporte ya que la mayoría de los autobuses (a excepción de la ruta al aeropuerto) no acceptan dinero solo la Rav-Kav tarjeta. El tren y tranvía se pueden pagar con dinero o tarjeta de crédito.
 
-![](/images/ravkavCardcss-1.jpg)
+![](/lavacacion/images/ravkavCardcss-1.jpg)
 
 Otra opción es rentar una bici o un scooter o bicis eléctricos. La empresa [Lime](https://www.li.me/es/) esta bastante fuerte aquí.  
   
@@ -125,17 +125,17 @@ Del aeropuerto al centro de Tel Aviv una buena opción es tomar el autobús. Est
 **¿Cómo llegar a Israel?**  
 La aerolinea de Ryanair [ofrece varios destinos en Europa](https://www.ryanair.com/es/es/) para llegar a Tel Aviv que siento es el aeropuerto más conveniente ya que la ciudad está a 60 km de Jerusalén y a 200 km del mar muerto. Aquí la lista (de 2019) de países donde hay destinos a Tel Aviv:
 
-![](/images/Screenshot-2019-12-12-at-20.24.30.png)
+![](/lavacacion/images/Screenshot-2019-12-12-at-20.24.30.png)
 
 **Mas fotos 📷**
 
-![](/images/IMG_1774.JPG)
+![](/lavacacion/images/IMG_1774.JPG)
 
-![](/images/IMG_1806.jpg)
+![](/lavacacion/images/IMG_1806.jpg)
 
-![](/images/IMG_1763-1.JPG)
+![](/lavacacion/images/IMG_1763-1.JPG)
 
-![](/images/IMG_1729.JPG)
+![](/lavacacion/images/IMG_1729.JPG)
 
 ¿Te gusta este proyecto y te gustaría aportar con algo?  
 ¡Con mucho gusto! Lo puedes hacer a través de nuestra cuenta en Patreon 😊

@@ -3,7 +3,7 @@ title: "Aprendiendo Español en Alemania"
 date: 2021-04-25T20:22:44.000Z
 slug: aprendiendo-espanol-en-alemania
 excerpt: "Ve abajo para ver el texto en alemán. > La lengua es la clave del mundo. Wilhelm von Humboldt Aprender una nueva lengua significa romper las fronteras y entrar..."
-featured_image: /images/aprendiendoEspa-olEnAlemania.jpg
+featured_image: /lavacacion/images/aprendiendoEspa-olEnAlemania.jpg
 tags:
   - travel
   - europe

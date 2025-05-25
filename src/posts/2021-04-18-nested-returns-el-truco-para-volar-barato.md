@@ -27,6 +27,6 @@ La idea es comprar:
 Checando al día de hoy, éste truco te ahorraría unos 427 € ✌️.  
 ¿Por qué? Una razón está en la oferta demanda, ve [aquí](/vuelos-mexico-europa-son-mas-caros-que-europa-mexico/) para mas información.
 
-![](/images/nestedReturns_RegresosAgrupados.jpg)
+![](/lavacacion/images/nestedReturns_RegresosAgrupados.jpg)
 
 Nested returns - retornos agrupados. Ejemplo de como ahorrar dinero en tickets de vuelos

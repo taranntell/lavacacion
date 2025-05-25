@@ -3,7 +3,7 @@ title: "Mit dem Zug durch Japan"
 date: 2023-12-30T22:04:55.000Z
 slug: zwei-wochen-in-japan-mit-dem-zug
 excerpt: "Unsere Route für zwei Wochen Ende Oktober verbrachten wir zwei aufregende Wochen in Japan. Von der pulsierenden Energie der Großstädte bis zur stillen Erhabenh..."
-featured_image: /images/P1033619@0.5x.jpg
+featured_image: /lavacacion/images/P1033619@0.5x.jpg
 tags:
   - travel
   - europe
@@ -23,7 +23,7 @@ Ende Oktober verbrachten wir zwei aufregende Wochen in Japan. Von der pulsierend
 
 Tokio - Kyoto - Osaka - Koyasan - Kanazawa - Takayama - Okuhida Onsen - Tokio
 
-![](/images/zug_train.jpg)
+![](/lavacacion/images/zug_train.jpg)
 
 # Tokio
 
@@ -31,7 +31,7 @@ Gigantische Metropole, endlose Facetten.
 
 Die ersten zwei Nächte verbrachten wir in Tokio um den Jetlag zu verdauen und sich einen ersten Überblick zu verschaffen. So konnten wir unseren **Rail-Pass** einlösen, den **Pasmo Pass** kaufen für Bus und Metro, Sitzplätze reservieren und erste Museen und Orte besichtigen. Am Ende unserer Reise blieben wir  nochmals für drei Nächte in Tokio.
 
-![](/images/P1510003@0.5x-1.jpg)
+![](/lavacacion/images/P1510003@0.5x-1.jpg)
 
 Unser Abenteuer begann in **Asakusa**, dem historischen Viertel von Tokio. Hier liegt der berühmte **Sensō-ji**, der älteste und bedeutendste buddhistische Tempel von Tokio, sowie der **Asakusa Schrein**. Es war die perfekte Gegend für den Start unserer Reise. Gut erreichbar vom **Flughafen Haneda**, mit vielen netten Restaurants und einigen Sehenswürdigkeiten zu Fuß erreichbar und abends wird es ruhig, man ist also nicht ganz so überfordert wie in anderen Teilen der Stadt.
 
@@ -44,7 +44,7 @@ So haben wir die ersten Tage verbracht:
 *   **Asahi Group head office Building** - Interessantes Gebäude der Asahi Brauerei, entworfen von Philippe Starck
 *   **Kuramae** - Ruhiges angrenzendes Viertel mit vielen netten Cafés und Kunsthandwerk
 
-![](/images/P1510143@0.5x.jpg)
+![](/lavacacion/images/P1510143@0.5x.jpg)
 
 ## Tagsüber Kunst & Design entdecken in Ropponggi
 
@@ -54,7 +54,7 @@ Roppongi ist ein geschäftiges Viertel mit Bürokomplexen aber auch Designerbout
 *   Mittagessen im Ramen Restaurant **Afuri Roppongi Hills -** Am Terminal konnten wir mit der Pasmo Karte bezahlen
 *   **[21\_21 Design Sight](https://www.2121designsight.jp/en/)** gegründet von Issey Miyake, der Bau wurde vom japanischen Star-Architekten Tadao Ando realisiert. Wechselnde moderne Ausstellungen 1400 ¥ p.P. Das Museum liegt in einem kleinen ruhigen Park, schöne Gegend.
 
-![](/images/P1032851@0.5x.jpg)
+![](/lavacacion/images/P1032851@0.5x.jpg)
 
 ## Abends in Shinjuku
 
@@ -66,7 +66,7 @@ Pulsierendes Viertel mit vielen Shops, Restaurants und Kneipenviertel. Unbedingt
 *   **Kabukichō** - buntes Unterhaltungsviertel
 *   **Godzillas Head** - Ikonische Statue über einem Kino-Komplex, bei all den Leuchtschildern und Fassaden geht der Kopf fast unter
 
-![](/images/P1032921@0.5x.jpg)
+![](/lavacacion/images/P1032921@0.5x.jpg)
 
 # Kyoto
 
@@ -74,7 +74,7 @@ Das kulturelle Herz Japans
 
 Vier Nächte verbrachten wir in Kyoto, es hätten locker mehr sein können. Kyoto ist die kulturelle Hauptstadt Japans mit unzähligen Tempeln und Schreinen sowie der atemberaubenden **Altstadt Gion**, in der man noch echte Geishas treffen kann, oder **Geikos** wie sie in Kyoto heißen. Unsere Unterkunft lag im Norden, in einem ruhigen Wohnviertel. Nicht ganz zentral gelegen, dafür haben wir einen tollen Einblick ins alltägliche Kyoto bekommen. Mit Leihfahrrädern ging es kreuz und quer durch die Stadt. Angereist sind wir von Tokio aus über die Tokio Station mit dem **Shinkansen**. Die Plätze haben wir vorher reserviert und mit etwas Glück hat man einen tollen Ausblick auf den Fuji, dafür im Zug auf der rechten Seite eine Platz reservieren.
 
-![](/images/P1510185@0.5x.jpg)
+![](/lavacacion/images/P1510185@0.5x.jpg)
 
 ### Tag 1 Nord - Süd:
 
@@ -86,7 +86,7 @@ Vier Nächte verbrachten wir in Kyoto, es hätten locker mehr sein können. Kyot
 *   **Fushimi Inari-Taisha** zum Sonnenuntergang die vielen Torii bestaunen **\-** Shinto Schrein mit Hundertern roten Toren, man zahlt keinen Eintritt und muss erstmal an vielen Menschen vorbei, nach oben hin werden es aber weniger und das ein oder andere Foto ist möglich
 *   **Funaoka Onsen -** Dieser Onsen lag fast neben unserer Unterkunft und so konnten wir die Abende entspannt ausklingen lassen im öffentlichen Bad und der Sauna (Männer und Frauen sind getrennt). Unbedingt die Regeln vorher anschauen und beachten.
 
-![](/images/P1510460@0.5x.jpg)
+![](/lavacacion/images/P1510460@0.5x.jpg)
 
 ### Tag 2
 
@@ -98,9 +98,9 @@ Von Tempel zu Temple auf dem Philosophenweg
 *   **Kennin-ji -** eines unserer Highlights in Kyoto, tolle Anlage mit schönen Zengärten, Wandmalereien und Teezeremonien, sehr zentral in der Altstadt gelegen 400¥ p.P.
 *   **Gion:** die Altstadt mit der **Hanamikoji Street** - einem alten Straßenzug mit Teehäusern und Restaurants, die S**hinbashi Brücke, Ninenzaka** - die charmante Fußgängerzone mit dem berühmten Blick auf den **Hokan-ji** -einem 5-stöckigen Pagodentempel. Hier trafen wir plötzlich auf eine Geisha. Auf der anderen Seite des Flusses liegt die **Pontocho Alley**, eine schöne Gasse mit vielen Restaurants, Abends besonders reizvoll.
 
-![](/images/IMG_5275@0.5x.jpg)
+![](/lavacacion/images/IMG_5275@0.5x.jpg)
 
-![](/images/IMG_5164@0.5x.jpg)
+![](/lavacacion/images/IMG_5164@0.5x.jpg)
 
 ### Tag 3
 
@@ -112,9 +112,9 @@ Bambuswald, Tempel und atemberaubender Sonnenuntergang
 *   **Kiyomizu-dera** - Am Nachmittag fuhren wir Richtung Zentrum zum berühmten Tempel Kiyomizu-dera, der wunderschön an einem Hang über Kyoto thront. Besonders zum Sonnenuntergang ist es traumhaft.
 *   Abendessen in **Gion** - Okonomiyaki-Restaurant Tanto, das Warten dort hat sich gelohnt
 
-![](/images/P1033300@0.5x.jpg)
+![](/lavacacion/images/P1033300@0.5x.jpg)
 
-![](/images/IMG_5097@0.5x.jpg)
+![](/lavacacion/images/IMG_5097@0.5x.jpg)
 
 ### Tipps Kyoto
 
@@ -126,23 +126,23 @@ Essen & Trinken
 
 Wir sind immer sehr spontan und lassen uns auch gerne überraschen. Von daher machen wir selten Empfehlungen. Hat man aber ein bestimmtes Restaurant im Blick, muss man unbedingt vorher reservieren, die Wartelisten abends sind teils sehr lang. Vor allem Vegetarier und Veganer sollten sich vorher informieren und geg. reservieren.
 
-![](/images/P1033117@0.5x.jpg)
+![](/lavacacion/images/P1033117@0.5x.jpg)
 
 # Universal Studios und Osaka
 
 Am nächsten Tag ging es früh los von Kyoto nach Osaka in die **Universal Studios**. Ein absolutes Kontrastprogramm zu Kyoto, aber lohnenswert wenn man sich dafür interessiert. Unser Gepäck verstauten wir am Bahnhof der Osaka Station in einem der zahlreichen Schließfächer und weiter ging es zu den Studios. Uns interessierte vor allem die **Super Nintendo World** aber auch die Shows und Parks wie **Hogwarts** sind beeindruckend. Die Tickets haben wir über [klook.com](http://klook.com/) gebucht. Leider muss man überall sehr lange anstehen und warten, also genügend Zeit einplanen. Wir kauften ein normales Ticket und suchten uns in den Studios eine Info an der wir einen **Time-slot für die Nintendo World** buchen mussten.
 
-![](/images/IMG_5513@0.5x.jpg)
+![](/lavacacion/images/IMG_5513@0.5x.jpg)
 
 Am Spätnachmittag ging es nach Osaka. Wir haben uns durch das berühmte Streetfood in **Dotonbori** probiert und waren beeindruckt von all den funkelnden Lichtern. Zufällig besuchten wir Osaka an Halloween und die Stadt war voll mit kostümierten jungen Leuten.
 
-![](/images/P1033700@0.5x.jpg)
+![](/lavacacion/images/P1033700@0.5x.jpg)
 
 Im Restaurant **Gyozaoh in Dotonbori** ließen wir den Abend ausklingen bei Sake und leckerem vegetarischen Essen.
 
 Am nächsten Morgen besuchten wir noch kurz den **Namba Yakata Schrein** in Form eines Löwenkopfes und machten uns wieder auf zum Bahnhof zu unseren nächsten Station - Koyasan.
 
-![](/images/P1510640@0.5x.jpg)
+![](/lavacacion/images/P1510640@0.5x.jpg)
 
 # Koyasan
 
@@ -150,7 +150,7 @@ Zen und Natur auf dem Tempelberg
 
 Östlich von Osaka liegt Koyasan, inmitten wunderschöner Natur und Bergen. Es ist der Tempelberg Koya und das buddhistische, spirituelle Zentrum Japans, das noch heute von vielen Pilgern besucht wird. Entweder besucht man Koyasan für einen Tagesausflug, oder man bleibt, so wie wir, für eine Nacht zu Gast bei Mönchen, bei einer Tempelübernachtung.
 
-![](/images/IMG_5700@0.5x.jpg)
+![](/lavacacion/images/IMG_5700@0.5x.jpg)
 
 Die Anreise erfolgt von Osaka aus mit dem Zug und mit der Seilbahn nach Koyasan, vor Ort kann man den Bus nehmen um zu seinem Ziel zu gelangen. Unser Ticket für Koyasan kauften wir in Osaka am Hauptbahnhof an einem Schalter, bei uns waren alle Fahrten des Zuges, Seilbahn und des Buses inklusive.
 
@@ -161,7 +161,7 @@ Allein die Reise dorthin ist wunderschön, es dauert zwar etwas aber man bekommt
 *   ****Okunoin-Tempel -**** Friedhof und Mausoleum mit über 200.000 moosbedeckten Grabsteinen und Denkmälern in einem dichten Wald aus alten Zedern.
 *   **Shukubo** - Die Tempelübernachtung - ca 50 Tempel in Koyasan bieten eine Übernachtungsmöglichkeit an. Mit Abendessen, Frühstück sowie morgendlicher Gebetsroutine. Das Essen ist vegetarisch und ein ganz besonderes Erlebnis. Shojin ryori nennt sich die Küche der Mönche und ist immer saisonal, regional und vegetarisch. Gebucht haben wir über die [offizielle Seite der Tempel](https://eng-shukubo.net/shukubo/)
 
-![](/images/IMG_5814@0.5x.jpg)
+![](/lavacacion/images/IMG_5814@0.5x.jpg)
 
 # Kanazawa
 
@@ -175,15 +175,15 @@ Von Koyasan ging es nach Kanazawa, die Hauptstadt der Präfektur Ishikawa an der
 *   Guter Kaffee und Tee bei einem Plausch mit der Besitzerin des **Ishikawamon Coffee House**
 *   Leckere Ramen im **Ippudo** Restaurant
 
-![](/images/P1044204@0.5x.jpg)
+![](/lavacacion/images/P1044204@0.5x.jpg)
 
-![](/images/P1044215@0.5x.jpg)
+![](/lavacacion/images/P1044215@0.5x.jpg)
 
 # Hida-Takayama und Okuhida Onsen
 
 Die Gegend rund um Kanazawa bietet zahlreiche Möglichkeiten für Tagesausflüge oder um weiter die Natur und die Berge zu erkunden wie z.B. **Shirakawa- go, Takayama** und die **Hida** Berge oder einen Onsen Ort.
 
-![](/images/P1044308@0.5x.jpg)
+![](/lavacacion/images/P1044308@0.5x.jpg)
 
 Wir haben uns für eine Übernachtung in einem **Ryokan,** ein traditionelles Hotel, entschieden in der Region von **Okuhida Onsen**. Von Kanazawa ging es nach Takayama mit dem Zug.
 
@@ -191,7 +191,7 @@ Wir haben uns für eine Übernachtung in einem **Ryokan,** ein traditionelles Ho
 
 **Okuhida Onsen** ist ein Paradies für Erholungsuchende mit seinen zahlreichen heißen Quellen, die von spektakulären Berglandschaften umgeben sind. Wir genossen unser Abendessen im **Kaiseki Style** und einen privaten Onsen in unserem Ryokan. Allerdings blieb nicht viel Zeit für weitere Aktivitäten, da die Anreise mit dem Bus etwas länger dauert und wir zurück nach Tokio mussten.
 
-![](/images/IMG_6230@0.5x.jpg)
+![](/lavacacion/images/IMG_6230@0.5x.jpg)
 
 # Tokio
 
@@ -202,12 +202,12 @@ die letzten drei Nächte verbrachten wir wieder in Tokio. Nachdem wir es die ers
 *   **Harajuku** - Cosplay und Streetwear rund um Harajuku Station. In der **Takeshita Street** reihen sich bunt geschmückte Shops und Streetfood Stände ein. Der **Yoyogi-Park** in der Nähe bietet eine grüne Oase der Ruhe, ein herrlicher Kontrast zur quirligen Energie von Harajuku
 *   **Akihabara** - entführte uns in die Welt der Technik und Popkultur. Elektronikgeschäfte, Anime-Läden und Maid Cafés prägen das Bild dieses Stadtteils. Hier verschmelzen Tradition und Innovation auf faszinierende Weise. Akihabara ist nicht nur ein Einkaufsparadies für Technik- und Animefans, sondern auch ein Fenster in die faszinierende Subkultur Japans.
 
-![](/images/IMG_6626@0.5x.jpg)
+![](/lavacacion/images/IMG_6626@0.5x.jpg)
 
 *   **Ginza** - das schicke Einkaufs- und Unterhaltungsviertel Tokios, verkörpert Luxus und Eleganz. Designerboutiquen und Kaufhäuser wie das Ginza 6 oder Ginza 2 befinden sich hier.
 *   **TeamLabs Planets**. Ein interaktives Museum mit Lichtinstallationen und digitaler Kunst gehört zu einem Japan Besuch dazu. Allerdings hatte die viel umworbene Ausstellung Borderless des digital art Kollektivs TeamLabs geschlossen, und so besuchten wir die Ausstellung Planets. Wir kauften die Tickets online im Voraus. Dort angekommen wurde man blockweise durch die Ausstellungsräume gelotst. Barfuß ging es dann durch das "Museum" durch teils knietiefes Wasser. Die bunten Lichtfäden und Installationen sind beeindruckend, dennoch war hier sehr viel los und man war relativ schnell fertig, bei wenig Zeit in Tokio kann man sich den Besuch sparen.
 
-![](/images/P1510822@0.5x.jpg)
+![](/lavacacion/images/P1510822@0.5x.jpg)
 
 # Tipps & Tricks
 
@@ -233,4 +233,4 @@ die letzten drei Nächte verbrachten wir wieder in Tokio. Nachdem wir es die ers
 
 Sayonara, Japan – bis zum nächsten Mal!
 
-![](/images/P1510258@0.5x.jpg)
+![](/lavacacion/images/P1510258@0.5x.jpg)

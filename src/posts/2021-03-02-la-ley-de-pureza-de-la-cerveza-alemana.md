@@ -3,7 +3,7 @@ title: "Así los Precios de la Cerveza en el Mundo 🍺"
 date: 2021-03-02T20:28:00.000Z
 slug: la-ley-de-pureza-de-la-cerveza-alemana
 excerpt: "Decide el destino de tu próximo viaje de acuerdo a el precio de la cerveza. Sudáfrica, Ukraina y Argentina son los países con la cerveza mas barata (desde 1.68$..."
-featured_image: /images/1-The-Price-of-A-Beer-Map-avg-price.jpg
+featured_image: /lavacacion/images/1-The-Price-of-A-Beer-Map-avg-price.jpg
 tags:
   - travel
   - europe

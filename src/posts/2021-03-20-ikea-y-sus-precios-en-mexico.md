@@ -3,7 +3,7 @@ title: "IKEA y sus precios en México 😳"
 date: 2021-03-20T12:59:45.000Z
 slug: ikea-y-sus-precios-en-mexico
 excerpt: "IKEA llegó a México hace unos meses y ya esta empezando a expandirse dando a conocer su próxima sucursal que se abrirá en Puebla para el 2022. Cómo llegar a I..."
-featured_image: /images/ikea-1.jpg
+featured_image: /lavacacion/images/ikea-1.jpg
 tags:
   - travel
   - europe
@@ -75,6 +75,6 @@ $69 MXN
 
 Si estas buscando alternativas a IKEA, te recomiendo los [Muebles Fest](https://www.instagram.com/mueblesfest/). Tienda mexicana con un estilo "clean" nórdico. Aquí algunas fotos de su instagram.
 
-![](/images/image-3.png)
+![](/lavacacion/images/image-3.png)
 
 [https://www.instagram.com/mueblesfest/](https://www.instagram.com/mueblesfest/)

@@ -3,7 +3,7 @@ title: "Visita Kiev 🇺🇦 Ucrania"
 date: 2019-10-26T18:30:26.000Z
 slug: visita-kiev-kyiv-ucrania
 excerpt: "Kiev tiene una mezcla única de pertenencia. Si te interesa los países eslavos con fuertes raíces de la Unión Soviética mezclados con lo \"moderno\" (oeste) Kiev e..."
-featured_image: /images/P1180314--1-.jpeg
+featured_image: /lavacacion/images/P1180314--1-.jpeg
 tags:
   - travel
   - europe
@@ -18,15 +18,15 @@ Es barato, hay riquísima comida con harta variedad de restaurantes y cafés, mu
 
 LaVacacion.com - Ucrania Kiev 2019
 
-![](/images/IMG_5611.JPG)
+![](/lavacacion/images/IMG_5611.JPG)
 
 Iglesia de St. Andrew - Protegida por la UNESCO
 
-![](/images/IMG_5618.JPG)
+![](/lavacacion/images/IMG_5618.JPG)
 
 De camino a las cuevas en el monasterio Pechersk Lavra
 
-![](/images/IMG_5616.JPG)
+![](/lavacacion/images/IMG_5616.JPG)
 
 Por las calles de Kiev
 
@@ -53,7 +53,7 @@ El ticket a la estación del tren cuesta 80 UAH - el ticket se puede comprar en 
 **¿Qué vuelos convienen?**  
 [Ryanair](https://www.ryanair.com/es/es/) ofrece vuelos directos (2:30 hrs) a bajo precio. Por ejemplo este de una semana del 14 al 21 de Febrero redondo en 50 Euros saliendo desde Nuremberg.
 
-![](/images/Screenshot-2019-10-27-at-21.36.45.png)
+![](/lavacacion/images/Screenshot-2019-10-27-at-21.36.45.png)
 
 Actualmente (2019) se puede viajar a Kiev con Ryanair desde las siguientes ciudades alemanas:
 
@@ -73,7 +73,7 @@ Los jóvenes más que los adultos. Pero en si la gente es mucho muy amable y ser
 **¿Cuál es la mejor época para ir?**  
 Lo mejor sería ir en verano. Aquí el clima de wikipedia:
 
-![](/images/Screenshot-2019-10-26-at-20.10.39.png)
+![](/lavacacion/images/Screenshot-2019-10-26-at-20.10.39.png)
 
 **¿Que más hacer? ¿Excursiones?**  
 Si te sobran días en Kiev y quieres ver algo más, puedes ir a la ciudad fantasma de [Chernóbil](https://es.wikipedia.org/wiki/Chernóbil) que te tardaría un día entero. Esta es ciudad es donde sucedieron las catástrofes nucleares
@@ -510,6 +510,6 @@ rico
 
 🗒 Hay comida de todo
 
-![](/images/IMG_5518.JPG)
+![](/lavacacion/images/IMG_5518.JPG)
 
 Isla Truchanov

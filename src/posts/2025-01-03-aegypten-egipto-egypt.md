@@ -3,7 +3,7 @@ title: "Ägypten"
 date: 2025-01-03T08:31:20.000Z
 slug: aegypten-egipto-egypt
 excerpt: "Eine Woche entlang des Nildeltas im Januar 2023 Unsere Route 2 Nächte Assuan/Elephantine - 3 Nächte Luxor - 2 Nächte Kairo Elephantine Island Unsere Reise..."
-featured_image: /images/homepage-lavacacion.jpg
+featured_image: /lavacacion/images/homepage-lavacacion.jpg
 tags:
   - travel
   - europe
@@ -19,13 +19,13 @@ author_image: "/images/authors/andrea.jpg"
 
 2 Nächte Assuan/Elephantine - 3 Nächte Luxor - 2 Nächte Kairo
 
-![](/images/map.jpg)
+![](/lavacacion/images/map.jpg)
 
 **Elephantine Island**
 
 Unsere Reise begann frühmorgens im malerischen **Assuan**, einer Stadt am östlichen Ufer des Nils unterhalb des ersten Katarakts. Vom Flughafen brachte uns ein Taxi ins Zentrum und da Freitag morgen noch alles geschlossen hatte verweilten wir kurz am Ufer des Nils. Auf der Suche einer Frühstücksmöglichkeit lernten wir zwei freundliche Einheimische kennen, die unseren ersten Tag unvergesslich machten. Wir erkundeten gemeinsam die Stadt, probierten Falafel, fuhren mit dem Bus ins **nubische Dorf** auf der anderen Flussseite, genossen Tee mit Blick auf den Nil und durchstreiften den bunten **Straßenmarkt von Assuan**. Der Auftakt unserer Reise hätte nicht schöner sein können. Abends setzten wir mit einer kleinen Fähre nach Elephantine Island über, eine entspannte, Autofreie Insel im Nil mit typischen Häuschen, Feldern, einigen Gasthäusern und Restaurants sowie einer archäologischen Ausgrabungsstätte.
 
-![](/images/_MG_6760_s.jpg)
+![](/lavacacion/images/_MG_6760_s.jpg)
 
 Teepause im Nubischen Dorf
 
@@ -33,7 +33,7 @@ Teepause im Nubischen Dorf
 
 Bereits in Deutschland hatten wir über unser Guesthouse eine Tagestour nach Abu Simbel gebucht. Aus Sicherheitsgründen kann Abu Simbel nur mit einem vorher gebuchten Bus erreicht werden. Um fünf Uhr morgens wurden wir am Ufer abgeholt und stiegen noch bei Dunkelheit in eines kleines Boot, um die Stadt zu erreichen. Auf dem Weg sammelten wir weitere Touristen ein und fuhren mit einem Minibus los. Die Fahrt bot einen atemberaubenden **Sonnenaufgang in der Wüste**. Als eine der ersten Touristen erreichten wir die Anlage noch früh am Morgen. Die majestätischen Tempel von Ramses II. beeindruckten uns nicht nur durch ihre Größe, sondern auch durch kunstvolle Gestaltung. Der Anblick dieser antiken Meisterwerke versetzte uns ehrfürchtig in die prachtvolle Zeit der Pharaonen. Am Nachmittag ging es wieder zurück und wir machten noch einen Abstecher zu Philae Island.
 
-![](/images/abusimbel.jpg)
+![](/lavacacion/images/abusimbel.jpg)
 
 ### **Elephantine Island und Assuan:**
 
@@ -45,7 +45,7 @@ Bereits in Deutschland hatten wir über unser Guesthouse eine Tagestour nach Abu
 *   **Nubian Village:** Ausflug zum Nubian Village am Westufer des Nils, um die einzigartige Kultur zu erleben und die bunten Häuser zu fotografieren.
 *   **Souvenirs auf dem Souk:** Einkauf von Souvenirs auf dem belebten Markt von Assuan.
 
-![](/images/elephantine.jpg)
+![](/lavacacion/images/elephantine.jpg)
 
 Blick auf Elephantine Island
 
@@ -61,13 +61,13 @@ Die Zugfahrt nach Luxor bot uns einen faszinierenden Blick auf die Landschaft, m
 
 Abends erreichten wir Luxor und genossen erstmal ein wundervolles Abendessen im **[Restaurant Sofra](https://www.tripadvisor.com/Restaurant_Review-g294205-d1223558-Reviews-Sofra_Restaurant_Cafe-Luxor_Nile_River_Valley.html)** mit vegetarischen Meze und Tee. Unser Hotel lag in Westbank also auf der anderen Seite des Nils, was wir wärmstens empfehlen können um der Stadt etwas zu entkommen.
 
-![](/images/westband_luxor.jpg)
+![](/lavacacion/images/westband_luxor.jpg)
 
 Westbank mit Blick auf Luxor
 
 Am nächsten Morgen mieteten wir **Fahrräder** am Westhafen und begaben uns auf ein Abenteuer durch das **Tal der Könige**. Die Fahrt mit dem Mountainbike zwischen den Gräbern war ein einzigartiges Erlebnis, fernab der großen Touristenbusse. Die Straßen sind sehr gut ausgebaut und wir hatten keine Schwierigkeiten das große Gebiet der Tempel und Grabstätten mit den Rädern zu erkunden.
 
-![](/images/cycle.jpg)
+![](/lavacacion/images/cycle.jpg)
 
 Mit dem Rad durchs Tal der Könige
 
@@ -75,7 +75,7 @@ Mit dem Rad durchs Tal der Könige
 
 Tickets für verschiedene Gräber können am Schalter des _[Antiquities Inspectorate Ticket Office](https://maps.app.goo.gl/Jap5wWYXNnPuQrvH6)_ oder im Tal der Könige erworben werden. Die Memnonkolosse markieren den Eingang zu dieser Nekropole der Pharaonen.
 
-![](/images/palomas.jpg)
+![](/lavacacion/images/palomas.jpg)
 
 **Memnonkolosse**
 
@@ -97,13 +97,13 @@ Schönes Restaurant mit typischen Spezialitäten und einer tollen Einrichtung, m
 *   **Karnak Tempel**
 *   **Falafel** ein großer Andrang bei diesem [Straßenrestaurant für Falafel](https://maps.app.goo.gl/WStvvrGPqwhGBnwZA) verriet uns, dass es hier gut sein muss und wir können dem nur zustimmen
 
-![](/images/Luxor.jpg)
+![](/lavacacion/images/Luxor.jpg)
 
 ### **Kairo - und die Pyramiden:**
 
 Von Luxor aus flogen wir nach Kairo, unserer letzten Station. Kairo ist ein riesiger Dschungel und es ist schwierig diesen auf eigene Faust zu erkunden. Ein Taxi vom Flughafen brachte uns durch die Stadt bis zum Egyptian Museum, das neue GEM hatte leider noch nicht geöffnet. Aber wir wollten natürlich die Grabbeigaben von Tutanchamun anschauen um unsere Reise zu vervollständigen. Das Museum ist unfassbar groß mit unzähligen Exponaten.
 
-![](/images/xfinje.jpg)
+![](/lavacacion/images/xfinje.jpg)
 
 Am nächsten Tag ging es endlich zu den Pyramiden von Gizeh. Majestätisch stehen sie in der Wüste im Hintergrund ist die Metropole von Kairo zu sehen. Wir ließen uns überreden und erkundeten die Pyramiden auf dem Rücken zweier Kamele, unser Guide führte uns zu einem tollen Ausblickpunk, den wir alleine nie gefunden hätten. Eine touristische aber schöne und natürlich fotogene Erfahrung.
 
@@ -140,4 +140,4 @@ Eine Woche in Ägypten fühlte sich an wie eine Zeitreise durch die Jahrtausende
 
 Ägypten ist ein Paradies für Vegetarier. Besonders die Vorspeisen bieten eine gute Auswahl. Ein neues Gericht für uns war [Koshari](https://www.themediterraneandish.com/egyptian-koshari-recipe/), das nun einen festen Platz auf unserem Mittagstisch hat.
 
-![](/images/camello-1.jpg)
+![](/lavacacion/images/camello-1.jpg)

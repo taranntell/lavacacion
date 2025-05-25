@@ -3,7 +3,7 @@ title: "Visita Dinkelsbühl"
 date: 2021-05-08T19:26:31.000Z
 slug: visita-dinkelsbuhl
 excerpt: "Dinkelsbühl [https://es.wikipedia.org/wiki/Dinkelsbühl] es una pequeña ciudad de la Franconia Media (entre Nuremberg, Würzburg y Stuttgart) con un centro excele..."
-featured_image: /images/dinkelsbuehl.jpg
+featured_image: /lavacacion/images/dinkelsbuehl.jpg
 tags:
   - travel
   - europe
@@ -24,11 +24,11 @@ La ciudad es de cuento de hadas pero muy pequeña, así que menos de un día es 
 
 Aquí unas fotos de Dinkelsbühl:
 
-![](/images/dikelsb-hl_1.jpg)
+![](/lavacacion/images/dikelsb-hl_1.jpg)
 
-![](/images/dinkelsb-hl_2.jpg)
+![](/lavacacion/images/dinkelsb-hl_2.jpg)
 
-![](/images/dinkelsb-hl_3.jpg)
+![](/lavacacion/images/dinkelsb-hl_3.jpg)
 
 Fotos en Instagram  
 [https://www.instagram.com/explore/tags/dinkelsbühl/](https://www.instagram.com/explore/tags/dinkelsb%C3%BChl/)

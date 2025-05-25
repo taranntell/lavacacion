@@ -3,7 +3,7 @@ title: "Freiburg la Ciudad Medieval del Futuro"
 date: 2021-03-26T15:45:05.000Z
 slug: freiburg-medieval-ciudad-del-futuro
 excerpt: "Freiburg es un lugar especialmente-único. Localizado a un costado de la selva negra; a unos 30 minutos de Francia y a una hora de Basel (Suiza). Mucha gente que..."
-featured_image: /images/freiburg.jpg
+featured_image: /lavacacion/images/freiburg.jpg
 tags:
   - travel
   - europe
@@ -15,7 +15,7 @@ author_image: "/images/authors/diego.jpg"
 
 Freiburg es un lugar especialmente-único. Localizado a un costado de la selva negra; a unos 30 minutos de Francia y a una hora de Basel (Suiza). Mucha gente que vive ahí, viaja diario a trabajar en Suiza (a ganar francos suizos) y hacen el super en Francia - con todas sus delicias 🤩.
 
-![](/images/image-4.png)
+![](/lavacacion/images/image-4.png)
 
 Freiburg, una ciudad medieval que cumplió 900 años en el 2020, es de las ciudades con más jóvenes en toda Alemania y de acuerdo a la [BBC es una ciudad del futuro](http://www.bbc.com/travel/story/20200715-freiburg-germanys-futuristic-city-set-in-a-forest). Su diseño intencionado se remonta a la posguerra. Mientras otras ciudades alemanas se centraban en la reconstrucción de ciudades modernas que situaban el coche en el centro del transporte futuro, los planificadores de Freiburg adoptaron un enfoque diferente, centrando sus diseños en el transporte público, por lo que ensancharon las calles para dar cabida a tranvías y carriles bici, incluyendo amplias zonas peatonales. Y en una época en la que gran parte de Alemania construía amplias autopistas y aparcamientos en expansión, Freiburg puso en marcha en 1969 su primera política de transporte urbano, centrada en modos de desplazamiento que van con medio ambiente.
 

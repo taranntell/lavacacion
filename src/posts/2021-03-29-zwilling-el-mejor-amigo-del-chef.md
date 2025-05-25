@@ -3,7 +3,7 @@ title: "Zwilling 🔪 El Mejor Amigo del Chef"
 date: 2021-03-29T08:05:43.000Z
 slug: zwilling-el-mejor-amigo-del-chef
 excerpt: "¡Un buen cuchillo es la herramienta más importante del cocinero! La marca Zwilling [https://en.wikipedia.org/wiki/Zwilling_J._A._Henckels] fue fundada en 1731;..."
-featured_image: /images/zwilling.jpg
+featured_image: /lavacacion/images/zwilling.jpg
 tags:
   - travel
   - europe

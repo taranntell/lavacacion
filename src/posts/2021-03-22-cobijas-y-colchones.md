@@ -3,7 +3,7 @@ title: "Cobijas y Colchones"
 date: 2021-03-22T20:52:30.000Z
 slug: cobijas-y-colchones
 excerpt: "La razón por la que existen dos cobijas individuales en camas de muchos hoteles y casas por Alemania es simplemente para que tu pareja no te quite tu cobija a l..."
-featured_image: /images/cama.jpg
+featured_image: /lavacacion/images/cama.jpg
 tags:
   - travel
   - europe

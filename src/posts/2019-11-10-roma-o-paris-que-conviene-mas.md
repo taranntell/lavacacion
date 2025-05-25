@@ -3,7 +3,7 @@ title: "Roma vs París enfrentamiento cara a cara"
 date: 2019-11-10T08:08:32.000Z
 slug: roma-o-paris-que-conviene-mas
 excerpt: "Las ruinas Romanas contra la ciudad del derrame romántico de miel. Dos ciudades icónicas en europa con gran historia y mucho por ver. Vamos a los hechos: ¿Qué..."
-featured_image: /images/PASSAGENS-AEREAS-PARIS-ROMA-CAPA2019-01.jpeg
+featured_image: /lavacacion/images/PASSAGENS-AEREAS-PARIS-ROMA-CAPA2019-01.jpeg
 tags:
   - travel
   - europe

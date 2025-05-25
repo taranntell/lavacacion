@@ -3,7 +3,7 @@ title: "Visita Atenas"
 date: 2019-11-23T14:52:56.000Z
 slug: atenas-grecia-acropolis
 excerpt: "¿Por qué tienes que conocer Atenas y/o Grecia en general? Mi maestro de filosofía solía mencionar que el punto más alto que ha logrado la humanidad fue durante..."
-featured_image: /images/IMG_1562-1.JPG
+featured_image: /lavacacion/images/IMG_1562-1.JPG
 tags:
   - travel
   - europe
@@ -31,11 +31,11 @@ Un boleto cuesta 1.40 € por 90 minutos.
 **¿Cuál es la mejor epoca de vistar Atenas?**  
 En mi opinion Marzo, Abril, Octubre y Noviembre. En primera el [clima](https://es.wikipedia.org/wiki/Atenas#Clima) es bastante placentero, las ruinas + museos no están tan llenos de turistas  y la mayoría de los museos cuestan menos por ser temporada baja 😊 Pero... una de las desventajas es de que algunos museos cierran un poco más temprano.
 
-![](/images/Screenshot-2019-11-18-at-21.47.47.png)
+![](/lavacacion/images/Screenshot-2019-11-18-at-21.47.47.png)
 
 **Acrópolis y sus alrededores**
 
-![](/images/IMG_1669.jpg)
+![](/lavacacion/images/IMG_1669.jpg)
 
 Lo que no te puedes perder por nada es [Acrópolis](http://odysseus.culture.gr/h/3/eh355.jsp?obj_id=2384) (10€). ¡Es increíble! Pero, antes de visitar Acrópolis, te recomendaría visitar primero su [museo](https://www.theacropolismuseum.gr/en) (6 €). Su arquitectura está fenomenal, hay varios videos, muy bien explicados que retransforman lo que fue la ciudad y claro sin olvidar que en el museo se encuentran piezas originales - Si vas de noche verás  el magestuoso Partenón iluminado. ¡Una belleza!  
 Así que mi recomendación para tener la mejor experiencia es un día en la tarde-noche visitar el museo de Acropolis y al siguiente día (temprano, por ahí de las 8-9 am) ir a la Acrópolis.
@@ -55,7 +55,7 @@ Templo de Poseidon 
 
 El [Stavros Niarchos Foundation Cultural Centre](https://goo.gl/maps/4h5BpeFeWCJfvHvC6) es un lugar enorme donde se encuentra la biblioteca y Ópera Nacional. Este tiene una arquitectura moderna impresionante, con una vista a la playa increíble.
 
-![](/images/IMG_1535.jpeg)
+![](/lavacacion/images/IMG_1535.jpeg)
 
 [Stavros Niarchos Foundation Cultural Centre](https://greekcitytimes.com/2019/02/28/stavros-niarchos-foundation-cultural-centre-receives-over-5-3-million-visitors-in-2018/)
 
@@ -81,4 +81,4 @@ Para los amantes del postre, no te puedes perder un bowl de chocolate 🤤 de [N
 **¿En donde hospedarte?**  
 El metro [Monastiraki](https://goo.gl/maps/1k8LQLGmgrP1mQ6T9) se encuentra en el centro de Atenas. Hospedaje cerca de esta estación te ayudará a ahorrar tiempo en traslados.
 
-![](/images/IMG_1604.JPG)
+![](/lavacacion/images/IMG_1604.JPG)

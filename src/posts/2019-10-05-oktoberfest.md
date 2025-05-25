@@ -3,7 +3,7 @@ title: "Oktoberfest 🍻"
 date: 2019-10-05T14:38:26.000Z
 slug: oktoberfest
 excerpt: "Hay algo mágico acerca del Oktoberfest, que no sé qué pedo. De todas las veces que he ido en ninguna me la he pasado mal. Apenas ayer fuí e igual :) Aquí van a..."
-featured_image: /images/oktoberfest--1-.jpg
+featured_image: /lavacacion/images/oktoberfest--1-.jpg
 tags:
   - travel
   - europe
@@ -43,20 +43,20 @@ Aquí van algunos tips
     Este es el link: [https://www.oktoberfest.de/en/beer-tents/tent-occupancy-oktoberfest-2019](https://www.oktoberfest.de/en/beer-tents/tent-occupancy-oktoberfest-2019)
     
 
-![Screenshot-2019-10-05-at-14.52.40](/images/Screenshot-2019-10-05-at-14.52.40.png)
+![Screenshot-2019-10-05-at-14.52.40](/lavacacion/images/Screenshot-2019-10-05-at-14.52.40.png)
 
 *   **¿Se puede reservar una mesa?**  
     Sí, hay paquetes pensados para 10 personas. Cuesta al rededor de 375€ (dependiendo la zona) e incluye 20 Maß y 10 pollos.  
     Les recomiendo reservar con anticipacion (+6 meses) para que consigan buenos lugares.  
     Aqui un ejemplo para reservar en la carpa [Festhalle Schottenhamel](https://www.festhalle-schottenhamel.de/en/reservation/reservation)
 
-![IMG_5128](/images/IMG_5128.jpg)
+![IMG_5128](/lavacacion/images/IMG_5128.jpg)
 
 *   **¿Cuánta lana llevo?**  
     Por lo general me gasto entre 50 y 70 euros. Pero eso si ya bien comido, tomado y bailado.  
     Aquí el menu del Oktoberfest de la cerveceria HB (2019)
 
-![Screenshot-2019-10-05-at-15.40.18](/images/Screenshot-2019-10-05-at-15.40.18.png)
+![Screenshot-2019-10-05-at-15.40.18](/lavacacion/images/Screenshot-2019-10-05-at-15.40.18.png)
 
 *   **Me quiero comprar mi traje tipico, ¿en donde?**  
     Hay calidades y por supuesto precios.  
@@ -66,7 +66,7 @@ Aquí van algunos tips
     Tracht to-go o trajes para llevar. Otra opción es comprarlo llegando, afuera de la estación de tren vi varios puestos que venden los trajes. Abajo la foto de los precios para las mujeres  
     Otra opción sería llevar una camisa a cuadros de preferencia azul, verde o roja o totalmente blanca con pantalón de mezclilla, esto para hombres y mujeres.
 
-![1408x792](/images/1408x792.jpeg)
+![1408x792](/lavacacion/images/1408x792.jpeg)
 
 *   **¿En dónde puedo dormir?**  
     La verdad es que todo se dispara en Munich para esa época 😱. De las veces que me he quedado he rentado un cuarto sobre AirBnB, claro con un buen tiempo de anticipación.  
