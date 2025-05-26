@@ -34,6 +34,12 @@ module.exports = function(eleventyConfig) {
     return Math.min.apply(null, numbers);
   });
 
+  // Fix image paths in content
+  eleventyConfig.addFilter("fixImagePaths", (content) => {
+    if (typeof content !== 'string') return content;
+    return content.replace(/src="\/lavacacion\//g, 'src="/');
+  });
+
   // Create collections
   eleventyConfig.addCollection("posts", function(collectionApi) {
     return collectionApi.getFilteredByGlob("src/posts/*.md").reverse();

@@ -14,14 +14,14 @@
     <meta property="og:url" content="{{ page.url }}">
     <meta property="og:title" content="{% if title %}{{ title }} - {% endif %}La Vacación">
     <meta property="og:description" content="{% if excerpt %}{{ excerpt }}{% else %}Tu guía de viajes por Europa y Alemania{% endif %}">
-    {% if featured_image %}<meta property="og:image" content="{{ featured_image }}">{% endif %}
+    {% if featured_image %}<meta property="og:image" content="{% if featured_image.startsWith('https://') %}{{ featured_image }}{% elif featured_image.startsWith('/lavacacion/') %}{{ featured_image | replace('/lavacacion/', '/') | url }}{% else %}{{ featured_image | url }}{% endif %}">{% endif %}
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="{{ page.url }}">
     <meta property="twitter:title" content="{% if title %}{{ title }} - {% endif %}La Vacación">
     <meta property="twitter:description" content="{% if excerpt %}{{ excerpt }}{% else %}Tu guía de viajes por Europa y Alemania{% endif %}">
-    {% if featured_image %}<meta property="twitter:image" content="{{ featured_image }}">{% endif %}
+    {% if featured_image %}<meta property="twitter:image" content="{% if featured_image.startsWith('https://') %}{{ featured_image }}{% elif featured_image.startsWith('/lavacacion/') %}{{ featured_image | replace('/lavacacion/', '/') | url }}{% else %}{{ featured_image | url }}{% endif %}">{% endif %}
 
     <link rel="stylesheet" type="text/css" href="{{ '/css/casper.css' | url }}" />
     <link rel="stylesheet" type="text/css" href="{{ '/css/header-fix.css' | url }}" />

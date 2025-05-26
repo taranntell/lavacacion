@@ -19,7 +19,7 @@ permalink: /posts/
       <article class="post-card">
         {% if post.data.featured_image %}
         <div class="post-card-image">
-          <img src="{{ post.data.featured_image }}" alt="{{ post.data.title }}" loading="lazy">
+          <img src="{% if post.data.featured_image.startsWith('https://') %}{{ post.data.featured_image }}{% elif post.data.featured_image.startsWith('/lavacacion/') %}{{ post.data.featured_image | replace('/lavacacion/', '/') | url }}{% else %}{{ post.data.featured_image | url }}{% endif %}" alt="{{ post.data.title }}" loading="lazy">
         </div>
         {% endif %}
         
