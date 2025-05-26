@@ -16,7 +16,7 @@ templateClass: "home-template"
                 {% if post.data.featured_image %}
                 <a class="post-card-image-link" href="{{ post.url | url }}">
                     <img class="post-card-image"
-                        src="{% if post.data.featured_image.startsWith('/lavacacion/') or post.data.featured_image.startsWith('https://') %}{{ post.data.featured_image }}{% else %}{{ post.data.featured_image | url }}{% endif %}"
+                        src="{% if post.data.featured_image.startsWith('https://') %}{{ post.data.featured_image }}{% elif post.data.featured_image.startsWith('/lavacacion/') %}{{ post.data.featured_image | replace('/lavacacion/', '/') | url }}{% else %}{{ post.data.featured_image | url }}{% endif %}"
                         alt="{{ post.data.title }}"
                         loading="lazy"
                     />
